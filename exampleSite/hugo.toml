@@ -111,7 +111,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # Author config
   # 作者配置
   [params.author]
-    name = "avatar Triono"
+    name = "Aan Triono"
     email = ""
     link = ""
 
@@ -271,7 +271,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       subtitle = "Blogger, Teacher, LaTeX Writer"
       # whether to use typeit animation for subtitle
       # 是否为副标题显示打字机动画
-      typeit = true
+     # typeit = true
       # whether to show social links
       # 是否显示社交账号
       social = true
@@ -635,19 +635,19 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
   # TypeIt config
   # TypeIt 配置
-  [params.typeit]
+#  [params.typeit]
     # typing speed between each step (measured in milliseconds)
     # 每一步的打字速度 (单位是毫秒)
-    speed = 100
+ #   speed = 100
     # blinking speed of the cursor (measured in milliseconds)
     # 光标的闪烁速度 (单位是毫秒)
-    cursorSpeed = 1000
+ #   cursorSpeed = 1000
     # character used for the cursor (HTML format is supported)
     # 光标的字符 (支持 HTML 格式)
-    cursorChar = "|"
+#    cursorChar = "|"
     # cursor duration after typing finishing (measured in milliseconds, "-1" means unlimited)
     # 打字结束之后光标的持续时间 (单位是毫秒, "-1" 代表无限大)
-    duration = -1
+#    duration = -1
 
   # Site verification code for Google/Bing/Yandex/Pinterest/Baidu
   # 网站验证代码，用于 Google/Bing/Yandex/Pinterest/Baidu
@@ -887,25 +887,25 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
           gravatarEmail = ""
           avatarURL = "/images/avatar.png"
           title = ""
-          subtitle = "A Clean, Elegant but Advanced Hugo Theme"
+          subtitle = "Blogger, Teacher, LaTeX Writer"
           typeit = true
           social = true
           disclaimer = ""
       [languages.en.params.social]
-        GitHub = "xxxx"
-        X = "xxxx"
-        Instagram = "xxxx"
-        Facebook = "xxxx"
-        Telegram = "xxxx"
-        Youtubelegacy = "xxxx"
-        HuggingFace = "xxxx"
+        #GitHub = "xxxx"
+      #  X = "xxxx"
+      #  Instagram = "xxxx"
+       # Facebook = "xxxx"
+        Telegram = "https://t.me/aantriono"
+       # Youtubelegacy = "xxxx"
+       # HuggingFace = "xxxx"
         Threads = "xxxx"
-        Phone = "555-555-555"
-        Email = "xxxx@xxxx.com"
-        RSS = true
-        [languages.en.params.social.Mastodon]
-          id = "@xxxx"
-          prefix = "https://mastodon.technology/"
+        #Phone = "555-555-555"
+        Email = "aantriono82@gmail.com"
+      #  RSS = true
+      #  [languages.en.params.social.Mastodon]
+         # id = "@xxxx"
+         # prefix = "https://mastodon.technology/"
 
   [languages.zh-cn]
     weight = 2
@@ -938,13 +938,13 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         name = "分类"
         url = "/categories/"
         title = ""
-      [[languages.zh-cn.menu.main]]
-        weight = 4
-        identifier = "documentation"
-        pre = ""
-        name = "文档"
-        url = "/categories/documentation/"
-        title = ""
+    #  [[languages.zh-cn.menu.main]]
+     #   weight = 4
+    #    identifier = "documentation"
+     #   pre = ""
+     #   name = "文档"
+     #   url = "/categories/documentation/"
+      #  title = ""
       [[languages.zh-cn.menu.main]]
         weight = 5
         identifier = "about"
@@ -953,14 +953,14 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         name = "关于"
         url = "/about/"
         title = ""
-      [[languages.zh-cn.menu.main]]
-        weight = 6
-        identifier = "github"
-        pre = "<i class='fab fa-github fa-fw' aria-hidden='true'></i>"
-        post = ""
-        name = ""
-        url = "https://github.com/dillonzq/LoveIt"
-        title = "GitHub"
+    #  [[languages.zh-cn.menu.main]]
+    #    weight = 6
+    #    identifier = "github"
+    #    pre = "<i class='fab fa-github fa-fw' aria-hidden='true'></i>"
+    #    post = ""
+    #    name = ""
+    #    url = "https://github.com/dillonzq/LoveIt"
+    #    title = "GitHub"
     [languages.zh-cn.params]
       [languages.zh-cn.params.search]
         enable = true
