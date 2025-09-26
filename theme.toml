@@ -26,8 +26,8 @@ features = [
 min_version = "0.128.0"
 
 [author]
-  name = "Dillon"
-  homepage = "https://dillonzq.com/"
+  name = "Aan Triono"
+  homepage = "https://aantriono.com/"
 
 [original]
   name = "Fastbyte01"
