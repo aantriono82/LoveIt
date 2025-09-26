@@ -1,7 +1,7 @@
-name = "LoveIt"
+name = "Catatan Belajar"
 license = "MIT"
 licenselink = "https://github.com/dillonzq/LoveIt/blob/master/LICENSE"
-description = "A Clean, Elegant but Advanced Hugo Theme for Hugo."
+description = "Blogger, Teacher, LaTeX Writer."
 
 homepage = "https://hugoloveit.com"
 demosite = "https://hugoloveit.com"
