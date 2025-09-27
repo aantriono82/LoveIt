@@ -12,8 +12,10 @@ math:
 ---
 
 
-> [:(far fa-kiss-wink-heart fa-fw): I am](https://github.com/dillonzq/LoveIt) is a **Blogger**, **Teacher** ,and **Writer LaTeX**  {{< person "https://www.aantriono.com/" Aan Triono "author of the catatan belajar" "/avatar.png" >}}.
-> Assalamu'alaikum...
+> [:(far fa-kiss-wink-heart fa-fw): I am](https://github.com/dillonzq/LoveIt) I'm a learner teacher who is
+passionate in  **Blogger**, **Teacher** ,and **Writer LaTeX**  {{< person "https://www.aantriono.com/" Aan Triono "author of the catatan belajar" "/avatar.png" >.
+
+Assalamu'alaikum...
 
 Hai, selamat datang di blog saya www.aantriono.com. Blog ini saya buat buat untuk menuliskan materi pelajaran matematika tingkat SMP, juga ada artikel, tutorial dan untaian hikmah. Selain itu saya juga menuliskan artikel tentang LaTeX dan GeoGebra di blog ini.
 
@@ -28,7 +30,7 @@ Hamba yang dhaif dan fakir
 
 
 Aan Triono
-> 
+> }}
 
 
 
