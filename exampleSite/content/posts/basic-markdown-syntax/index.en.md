@@ -18,28 +18,28 @@ categories: ["Markdown"]
 lightgallery: true
 ---
 
-This article offers a sample of basic Markdown syntax that can be used in Hugo content files.
+Artikel ini menawarkan contoh sintaks Markdown dasar yang dapat digunakan dalam file konten Hugo.
 
 <!--more-->
 
-{{< admonition >}}
-This article is a shameful copy of the great [Grav original page](https://learn.getgrav.org/content/markdown).
+{{< Catatan >}}
+Artikel ini adalah salinan dari halaman  [Grav original page](https://learn.getgrav.org/content/markdown).
 
-If you want to know about the extended Markdown syntax of **LoveIt** theme, please read [extended Markdown syntax page](../theme-documentation-content#extended-markdown-syntax).
-{{< /admonition >}}
+Jika Anda ingin tahu tentang tema Sharpdown sintax of **LoveIt** yang diperluas, silakan baca halaman [extended Markdown syntax page](../theme-documentation-content#extended-markdown-syntax).
+{{< /catatan >}}
 
-Let's face it: Writing content for the Web is tiresome. WYSIWYG editors help alleviate this task, but they generally result in horrible code, or worse yet, ugly web pages.
+Mari kita hadapi itu: Menulis konten untuk Web itu melelahkan. Editor WYSIWYG membantu meringankan tugas ini, tetapi mereka umumnya menghasilkan kode yang mengerikan, atau lebih buruk lagi, halaman web jelek.
 
-**Markdown** is a better way to write **HTML**, without all the complexities and ugliness that usually accompanies it.
+**Markdown** adalah cara yang lebih baik untuk menulis **HTML**, tanpa semua kompleksitas dan keburukan yang biasanya menyertainya.
 
-Some of the key benefits are:
+Beberapa manfaat utama adalah:
 
-1. Markdown is simple to learn, with minimal extra characters, so it's also quicker to write content.
-2. Less chance of errors when writing in Markdown.
-3. Produces valid XHTML output.
-4. Keeps the content and the visual display separate, so you cannot mess up the look of your site.
-5. Write in any text editor or Markdown application you like.
-6. Markdown is a joy to use!
+1. Markdown mudah dipelajari, dengan karakter tambahan minimal, jadi juga lebih cepat untuk menulis konten.
+2. Kurangnya kemungkinan kesalahan saat menulis di Markdown.
+3. Menghasilkan output XHTML yang valid.
+4. Menjaga konten dan tampilan visual terpisah, sehingga Anda tidak dapat mengacaukan tampilan situs Anda.
+5. Tulis di editor teks atau aplikasi Markdown yang Anda sukai.
+6. Markdown adalah sukacita untuk digunakan!
 
 John Gruber, the author of Markdown, puts it like this:
 
