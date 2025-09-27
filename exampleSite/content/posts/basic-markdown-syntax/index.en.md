@@ -3,7 +3,7 @@ weight: 4
 title: "Sintaks Dasar Markdown"
 date: 2019-12-01T21:57:40+08:00
 lastmod: 2020-01-01T16:45:40+08:00
-draft: false
+draft: true
 author: "Aan Triono"
 authorLink: "https://www.aantriono.com"
 description: "Artikel ini membahas format dan sintaks dasar markdown."
