@@ -25,7 +25,7 @@ passionate in  **Blogger**, **Teacher**, and **Writer LaTeX**.
 > Demikian yang dapat penulis sampaikan, mari kita terus belajar dan berkarya untuk kebaikan bersama. Terima kasih.
 > 
 > Salam hormat saya.
-> 
+>
 > Hamba yang dhaif dan fakir
 >
 > 
