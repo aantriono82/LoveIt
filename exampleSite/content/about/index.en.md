@@ -11,7 +11,7 @@ math:
   enable: true
 ---
 
-![exampleSite/assets/images/avatar.png](LoveIt/exampleSite/assets/images/avatar.png)
+![Aan Triono](/images/logo.jpg "Aan Triono")
 
 > [:(far fa-kiss-wink-heart fa-fw): I am](https://www.aantriono.com) a learner teacher who is
 passionate in  **Blogger**, **Teacher**, and **Writer LaTeX**.
