@@ -7,10 +7,10 @@ draft: false
 author: "Aan Triono"
 authorLink: "https://www.aantriono.com"
 description: "Artikel ini membahas penulisan ekspresi matematika menggunakan KaTeX di Markdown."
-images: [/images/katex.png]
+images: []
 resources:
-- name: "featured-image"
-  src: "featured-image.png"
+- name: "katex"
+  src: "katex.png"
 
 tags: ["LaTeX", "KaTeX"]
 categories: ["LaTeX"]
