@@ -48,27 +48,9 @@ Beberapa manfaat utama adalah:
 4. Menjaga konten dan tampilan visual terpisah, sehingga Anda tidak dapat mengacaukan tampilan situs Anda.
 5. Tulis di editor teks atau aplikasi Markdown yang Anda sukai.
 6. Markdown adalah sukacita untuk digunakan! >}}
-Artikel ini adalah salinan memalukan dari halaman  [Grav original page](https://learn.getgrav.org/content/markdown).
-
-Jika Anda ingin tahu tentang tema Sharpdown sintax of LoveIt yang diperluas, silakan baca halaman [extended Markdown syntax page](../theme-documentation-content#extended-markdown-syntax).
-{{< /catatan >}}
-
-Mari kita hadapi itu: Menulis konten untuk Web itu melelahkan. Editor WYSIWYG membantu meringankan tugas ini, tetapi mereka umumnya menghasilkan kode yang mengerikan, atau lebih buruk lagi, halaman web jelek.
-
-Markdown adalah cara yang lebih baik untuk menulis HTML, tanpa semua kompleksitas dan keburukan yang biasanya menyertainya.
-
-Beberapa manfaat utama adalah:
-
-1. Markdown mudah dipelajari, dengan karakter tambahan minimal, jadi juga lebih cepat untuk menulis konten.
-2. Kurangnya kemungkinan kesalahan saat menulis di Markdown.
-3. Menghasilkan output XHTML yang valid.
-4. Menjaga konten dan tampilan visual terpisah, sehingga Anda tidak dapat mengacaukan tampilan situs Anda.
-5. Tulis di editor teks atau aplikasi Markdown yang Anda sukai.
-6. Markdown adalah sukacita untuk digunakan! >}}
-Artikel ini adalah salinan dari halaman  [Grav original page](https://learn.getgrav.org/content/markdown).
 
 Jika Anda ingin tahu tentang tema Sharpdown sintax of **LoveIt** yang diperluas, silakan baca halaman [extended Markdown syntax page](../theme-documentation-content#extended-markdown-syntax).
-{{< /catatan >}}
+{{< /admonition >}}
 
 Mari kita hadapi itu: Menulis konten untuk Web itu melelahkan. Editor WYSIWYG membantu meringankan tugas ini, tetapi mereka umumnya menghasilkan kode yang mengerikan, atau lebih buruk lagi, halaman web jelek.
 
