@@ -7,7 +7,7 @@ draft: false
 author: "Aan Triono"
 authorLink: "https://www.aantriono.com"
 description: ""
-images: [/assets/images.katex.png]
+images: [/assets/images/katex.png]
 #resources:
 #- name: "featured-image"
 #  src: "featured-image.png"
