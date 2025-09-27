@@ -3,7 +3,7 @@ title: "About Me"
 date: 2025-09-02T11:04:49+08:00
 draft: false
 description: "About Me"
-images: ["/avatar.png"]
+images: ["/logo.jpg"]
 
 lightgallery: true
 
