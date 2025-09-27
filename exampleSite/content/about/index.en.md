@@ -13,20 +13,20 @@ math:
 
 
 > [:(far fa-kiss-wink-heart fa-fw): I am](https://www.aantriono.com) a learner teacher who is
-passionate in  **Blogger**, **Teacher** ,and **Writer LaTeX**.
+passionate in  **Blogger**, **Teacher**, and **Writer LaTeX**.
+>
+Assalamu'alaikum...
 
-> Assalamu'alaikum...
+ Hai, selamat datang di blog saya. Blog ini dibuat untuk menuliskan catatan belajar saya tentang Sistem Operasi Komputer seperti GNU/Linux, BSD, dan juga tentang LaTeX.
 
-> Hai, selamat datang di blog saya. Blog ini dibuat untuk menuliskan catatan belajar saya tentang Sistem Operasi Komputer seperti GNU/Linux, BSD, dan juga tentang LaTeX.
+ Besar harapan saya semoga blog yang sederhana ini dapat membawa suatu kebaikan dan manfaat bagi diri saya sendiri maupun pembaca pada umumnya sehingga ilmu yang diperoleh dapat diamalkan untuk  kebaikan sesama. 
 
-> Besar harapan saya semoga blog yang sederhana ini dapat membawa suatu kebaikan dan manfaat bagi diri saya sendiri maupun pembaca pada umumnya sehingga ilmu yang diperoleh dapat diamalkan untuk >kebaikan sesama. 
+ Segala bentuk ide, saran ataupun kritik untuk kebaikan blog ini sangat penulis harapkan. Silahkan dikirimkan melalui contact ataupun melalui media sosial yang penulis cantumkan di blog ini. 
 
-> Segala bentuk ide, saran ataupun kritik untuk kebaikan blog ini sangat penulis harapkan. Silahkan dikirimkan melalui contact ataupun melalui media sosial yang penulis cantumkan di blog ini. 
+ Demikian yang dapat penulis sampaikan, mari kita terus belajar dan berkarya untuk kebaikan bersama. Terima kasih. 
 
-> Demikian yang dapat penulis sampaikan, mari kita terus belajar dan berkarya untuk kebaikan bersama. Terima kasih. 
-
-> Salam hormat saya. 
-> Hamba yang dhaif dan fakir 
+ Salam hormat saya. 
+ Hamba yang dhaif dan fakir 
 
 
 > Aan Triono
