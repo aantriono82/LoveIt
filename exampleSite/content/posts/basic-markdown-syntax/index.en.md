@@ -4,8 +4,8 @@ title: "Basic Markdown Syntax"
 date: 2019-12-01T21:57:40+08:00
 lastmod: 2020-01-01T16:45:40+08:00
 draft: true
-author: "Dillon"
-authorLink: "https://dillonzq.com"
+author: "Aan Triono"
+authorLink: "https://www.aantriono.com"
 description: "This article shows the basic Markdown syntax and format."
 images: []
 resources:
