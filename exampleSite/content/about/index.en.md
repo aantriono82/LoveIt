@@ -14,6 +14,7 @@ math:
 
 > [:(far fa-kiss-wink-heart fa-fw): I am](https://www.aantriono.com) a learner teacher who is
 passionate in  **Blogger**, **Teacher**, and **Writer LaTeX**.
+> 
 > Assalamu'alaikum...
 > Hai, selamat datang di blog saya. Blog ini dibuat untuk menuliskan catatan belajar saya tentang Sistem Operasi Komputer seperti GNU/Linux, BSD, dan juga tentang LaTeX.
 > Besar harapan saya semoga blog yang sederhana ini dapat membawa suatu kebaikan dan manfaat bagi diri saya sendiri maupun pembaca pada umumnya sehingga ilmu yang diperoleh dapat diamalkan untuk  kebaikan sesama. 
