@@ -1,8 +1,8 @@
 ---
-title: "About LoveIt"
-date: 2019-08-02T11:04:49+08:00
+title: "About Me"
+date: 2025-09-02T11:04:49+08:00
 draft: false
-description: "About LoveIt"
+description: "About Me"
 images: ["/Apple-Devices-Preview.png"]
 
 lightgallery: true
