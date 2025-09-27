@@ -6,7 +6,7 @@ lastmod: 2025-09-27
 draft: false
 author: "Aan Triono"
 authorLink: "https://www.aantriono.com"
-description: "Artikel ini membahas penulisan ekspresi matematika menggunakan KaTeX di Markdown."
+description: ""
 images: []
 resources:
 - name: "katex"
