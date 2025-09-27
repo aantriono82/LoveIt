@@ -12,8 +12,8 @@ math:
 ---
 
 
-> [:(far fa-kiss-wink-heart fa-fw): I am](https://github.com/dillonzq/LoveIt) I'm a learner teacher who is
-passionate in  **Blogger**, **Teacher** ,and **Writer LaTeX**  {{< person "https://www.aantriono.com/" Aan Triono "author of the catatan belajar" "/avatar.png" .
+> [:(far fa-kiss-wink-heart fa-fw): I am](https://www.aantriono.com) I'm a learner teacher who is
+passionate in  **Blogger**, **Teacher** ,and **Writer LaTeX**  {{< person "https://www.aantriono.com/" Aan Triono "author of the catatan belajar" "/avatar.png">}}
 
 Assalamu'alaikum...
 
@@ -30,7 +30,6 @@ Hamba yang dhaif dan fakir
 
 
 Aan Triono
-> }}
 
 
 
