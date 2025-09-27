@@ -3,7 +3,7 @@ title: "About Me"
 date: 2025-09-02T11:04:49+08:00
 draft: false
 description: "About Me"
-images: ["/logo.jpg"]
+images: ["/avatar.png"]
 
 lightgallery: true
 
@@ -11,7 +11,7 @@ math:
   enable: true
 ---
 
-![Aan Triono](/images/logo.jpg)
+
 
 > [:(far fa-kiss-wink-heart fa-fw): I am](https://www.aantriono.com) a learner teacher who is
 passionate in  **Blogger**, **Teacher**, and **Writer LaTeX**.
