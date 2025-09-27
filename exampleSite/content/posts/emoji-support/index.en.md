@@ -7,10 +7,10 @@ draft: false
 author: "Aan Triono"
 authorLink: "https://www.aantriono.com"
 description: ""
-images: [/assets/images/katex.png]
-#resources:
-#- name: "featured-image"
-#  src: "featured-image.png"
+images: []
+resources:
+- name: "katex"
+  src: "katex.png"
 
 tags: ["LaTeX", "KaTeX"]
 categories: ["LaTeX"]
