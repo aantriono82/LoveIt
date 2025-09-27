@@ -9,8 +9,8 @@ authorLink: "https://www.aantriono.com"
 description: ""
 images: []
 resources:
-- name: "katex"
-  src: "katex.png"
+- name: "featured-image"
+  src: "featured-image.png"
 
 tags: ["LaTeX", "KaTeX"]
 categories: ["LaTeX"]
