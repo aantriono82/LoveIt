@@ -112,7 +112,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # 作者配置
   [params.author]
     name = "Aan Triono"
-    email = ""
+    email = "aantriono82@gmail.com"
     link = ""
 
   # Header config
@@ -146,7 +146,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # Footer config
   # 页面底部信息配置
   [params.footer]
-    enable = true
+    # enable = true
     # Custom content (HTML format is supported)
     # 自定义内容 (支持 HTML 格式)
     #custom = ""
@@ -265,13 +265,13 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       avatarURL = "/images/avatar.png"
       # title shown in home page (HTML format is supported)
       # 主页显示的网站标题 (支持 HTML 格式)
-      title = "Blogger, Teacher, LaTeX Writer"
+      title = "Bukan siapa-siapa, hanya butiran debu"
       # subtitle shown in home page (HTML format is supported)
       # 主页显示的网站副标题 (允许 HTML 格式)
-      subtitle = "Blogger, Teacher, LaTeX Writer"
+      subtitle = "Bukan siapa-siapa, hanya butiran debu"
       # whether to use typeit animation for subtitle
       # 是否为副标题显示打字机动画
-     # typeit = true
+      typeit = true
       # whether to show social links
       # 是否显示社交账号
       social = true
@@ -897,9 +897,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       #  Instagram = "xxxx"
        # Facebook = "xxxx"
         Telegram = "https://t.me/aantriono"
-       # Youtubelegacy = "xxxx"
+        Youtubelegacy = "xxxx"
        # HuggingFace = "xxxx"
-        Threads = "xxxx"
+       # Threads = "xxxx"
         #Phone = "555-555-555"
         Email = "aantriono82@gmail.com"
       #  RSS = true
