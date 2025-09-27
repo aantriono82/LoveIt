@@ -22,7 +22,7 @@ Artikel ini menawarkan contoh sintaks Markdown dasar yang dapat digunakan dalam 
 
 <!--more-->
 
-{{< Catatan >}}
+{{< catatan >}}
 Artikel ini adalah salinan dari halaman  [Grav original page](https://learn.getgrav.org/content/markdown).
 
 Jika Anda ingin tahu tentang tema Sharpdown sintax of **LoveIt** yang diperluas, silakan baca halaman [extended Markdown syntax page](../theme-documentation-content#extended-markdown-syntax).
