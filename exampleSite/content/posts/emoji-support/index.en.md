@@ -1,12 +1,12 @@
 ---
 weight: 5
-title: "Dukungan Emoji"
-date: 2025-09-12:55:28+08:00
+title: "Emoji Support"
+date: 2019-10-01T17:55:28+08:00
 lastmod: 2019-10-01T17:55:28+08:00
 draft: false
-author: "Aan Triono"
-authorLink: "https://www.aantriono.com"
-description: "Panduan Menggunakan Emoji di Hugo."
+author: "Dillon"
+authorLink: "https://dillonzq.com"
+description: "Guide to emoji usage in Hugo and LoveIt."
 images: []
 resources:
 - name: "featured-image"
