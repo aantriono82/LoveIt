@@ -24,8 +24,11 @@ passionate in  **Blogger**, **Teacher**, and **Writer LaTeX**.
 > Segala bentuk ide, saran ataupun kritik untuk kebaikan blog ini sangat penulis harapkan. Silahkan dikirimkan melalui contact ataupun melalui media sosial yang penulis cantumkan di blog ini. 
 > Demikian yang dapat penulis sampaikan, mari kita terus belajar dan berkarya untuk kebaikan bersama. Terima kasih.
 > 
-> Salam hormat saya. 
-> Hamba yang dhaif dan fakir 
+> Salam hormat saya.
+> 
+> Hamba yang dhaif dan fakir
+>
+> 
 > Aan Triono
 
 
