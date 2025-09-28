@@ -78,7 +78,7 @@ Jika Anda menggunakan generator situs statis seperti Hugo atau Jekyll, pastikan 
 
 ## Sintaks LaTeX yang Didukung oleh KaTeX
 
-KaTeX mendukung sebagian besar sintaks LaTeX standar. 
+KaTeX mendukung sebagian besar sintaks LaTeX/TeX standar. 
 {{< admonition tip >}}
 Di sini beberapa daftar fungsi [TeX yang didukung oleh KaTeX](https://katex.org/docs/supported.html).
 {{< /admonition >}}
@@ -92,14 +92,15 @@ Contoh:
 ```markdown
 $E = mc^2$
 
-$c = \pm\sqrt{a^2 + b^2}$ and \\(f(x)=\int_{-\infty}^{\infty} \hat{f}(\xi) e^{2 \pi i \xi x} d \xi\\)
+$c = \pm\sqrt{a^2 + b^2}$ dan \\(f(x)=\int_{-\infty}^{\infty} \hat{f}(\xi) e^{2 \pi i \xi x} d \xi\\)
 ```
 Hasil:
 $E=mc^2$
 
-$c = \pm\sqrt{a^2 + b^2}$ and \\(f(x)=\int_{-\infty}^{\infty} \hat{f}(\xi) e^{2 \pi i \xi x} d \xi\\)
+$c = \pm\sqrt{a^2 + b^2}$ dan \\(f(x)=\int_{-\infty}^{\infty} \hat{f}(\xi) e^{2 \pi i \xi x} d \xi\\)
 
 b. Matematika Blok
+
 Gunakan tanda dolar ganda ($$) untuk membuat ekspresi matematika dalam bentuk blok.
 
 Contoh:
@@ -112,6 +113,7 @@ Hasil:
 $$\int_a^b f(x) \ dx = F(b) - F(a)$$
 
 c. Operator Matematika
+
 KaTeX mendukung berbagai operator matematika, termasuk:
 
 Penjumlahan: x + y
@@ -130,6 +132,7 @@ $$
 $$
 
 d. Simbol Greek dan Lainnya
+
 Gunakan sintaks LaTeX untuk menulis simbol Greek atau khusus:
 
 Greek kecil: \alpha, \beta, \gamma
@@ -143,6 +146,7 @@ Hasil:
 $$\alpha + \beta = \gamma$$
 
 e. Matriks dan Sistem Persamaan
+
 KaTeX mendukung format matriks menggunakan perintah \begin{matrix}.
 
 Contoh:
@@ -164,9 +168,11 @@ $$
 
 ## Penyesuaian Lebih Lanjut
 a. Delimiters Kustom
+
 Anda dapat menyesuaikan delimiters di KaTeX. Misalnya, gunakan \( dan \) untuk inline, atau \[\] untuk blok.
 
 b. Gaya Visual
+
 KaTeX mendukung gaya visual seperti:
 
 Teks Tebal: \mathbf{A} untuk huruf tebal.
@@ -184,6 +190,7 @@ $$
 $$
 
 c. Error Handling
+
 KaTeX memiliki error handling yang baik. Jika Anda menulis sintaks yang salah, ekspresi tetap dirender tetapi akan memberikan notifikasi kesalahan.
 
 ## Ekspresi Matematika dengan KaTeX
