@@ -120,6 +120,7 @@ Penjumlahan: x + y
 Perkalian: x \cdot y atau x \times y
 Pecahan: \frac{a}{b}
 Akar: \sqrt{x}
+
 Contoh:
 ```markdown
 $$
@@ -138,6 +139,7 @@ Gunakan sintaks LaTeX untuk menulis simbol Greek atau khusus:
 Greek kecil: \alpha, \beta, \gamma
 Greek besar: \Gamma, \Delta
 Lainnya: \infty (tak hingga), \partial (derivatif parsial), \nabla (operator nabla)
+
 Contoh:
 ```markdown
 $\alpha + \beta = \gamma$
@@ -178,6 +180,7 @@ KaTeX mendukung gaya visual seperti:
 Teks Tebal: \mathbf{A} untuk huruf tebal.
 Huruf Miring: \mathit{A} untuk huruf miring.
 Ukuran Font: \small, \large, \Huge.
+
 Contoh:
 ```markdown
 $$
