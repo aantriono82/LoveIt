@@ -90,6 +90,8 @@ $E = mc^2$
 ```
 Hasil: $E=mc^2$
 
+$c = \pm\sqrt{a^2 + b^2}$ and \\(f(x)=\int_{-\infty}^{\infty} \hat{f}(\xi) e^{2 \pi i \xi x} d \xi\\)
+
 b. Matematika Blok
 Gunakan tanda dolar ganda ($$) untuk membuat ekspresi matematika dalam bentuk blok.
 
