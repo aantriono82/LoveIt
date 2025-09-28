@@ -73,7 +73,13 @@ Jika Anda menggunakan generator situs statis seperti Hugo atau Jekyll, pastikan 
 
 
 ## Sintaks LaTeX yang Didukung oleh KaTeX
-KaTeX mendukung sebagian besar sintaks LaTeX standar. Berikut adalah beberapa kategori utama yang sering digunakan:
+
+KaTeX mendukung sebagian besar sintaks LaTeX standar. 
+{{< admonition tip >}}
+Di sini beberapa daftar fungsi [$\TeX$ yang didukung oleh $\KaTeX$](https://katex.org/docs/supported.html).
+{{< /admonition >}}
+
+Berikut adalah beberapa kategori utama yang sering digunakan:
 
 a. Matematika Inline
 Untuk menulis ekspresi matematika inline, gunakan tanda dolar tunggal ($).
@@ -82,7 +88,7 @@ Contoh:
 ```tex
 $E = mc^2$
 ```
-Hasil: $E = mc^2$
+Hasil: {{< raw >}}\(\mathbf{E}=\sum_{i} \mathbf{E}_{i}=\mathbf{E}_{1}+\mathbf{E}_{2}+\mathbf{E}_{3}+\cdots\){{< /raw >}}
 
 b. Matematika Blok
 Gunakan tanda dolar ganda ($$) untuk membuat ekspresi matematika dalam bentuk blok.
