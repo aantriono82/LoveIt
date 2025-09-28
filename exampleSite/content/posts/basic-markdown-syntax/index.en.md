@@ -15,6 +15,8 @@ resources:
 tags: ["Markdown", "HTML"]
 categories: ["Markdown"]
 
+math:
+  enable: true
 lightgallery: true
 ---
 
