@@ -6,7 +6,7 @@ lastmod: 2025-09-27
 draft: false
 author: "Aan Triono"
 authorLink: "https://www.aantriono.com"
-description: ""
+description: "Artikel ini membahas tentang penulisan ekspresi matematika menggunakan KaTeX"
 images: []
 resources:
 - name: "featured-image"
