@@ -3,7 +3,7 @@ weight: 4
 title: "Menulis Ekspresi Matematika di Markdown"
 date: 2025-09-27
 lastmod: 2025-09-27
-draft: false
+draft: true
 author: "Aan Triono"
 authorLink: "https://www.aantriono.com"
 description: "Artikel ini membahas tentang penulisan ekspresi matematika di markdown menggunakan KaTeX"
