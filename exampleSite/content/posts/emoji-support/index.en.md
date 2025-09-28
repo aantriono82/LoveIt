@@ -76,7 +76,7 @@ Jika Anda menggunakan generator situs statis seperti Hugo atau Jekyll, pastikan 
 
 KaTeX mendukung sebagian besar sintaks LaTeX standar. 
 {{< admonition tip >}}
-Di sini beberapa daftar fungsi [$\TeX$ yang didukung oleh $\KaTeX$](https://katex.org/docs/supported.html).
+Di sini beberapa daftar fungsi [TeX yang didukung oleh KaTeX](https://katex.org/docs/supported.html).
 {{< /admonition >}}
 
 Berikut adalah beberapa kategori utama yang sering digunakan:
@@ -85,22 +85,22 @@ a. Matematika Inline
 Untuk menulis ekspresi matematika inline, gunakan tanda dolar tunggal ($).
 
 Contoh:
-```tex
+```markdown
 $E = mc^2$
 ```
-Hasil: {{< raw >}}\(\mathbf{E}=\sum_{i} \mathbf{E}_{i}=\mathbf{E}_{1}+\mathbf{E}_{2}+\mathbf{E}_{3}+\cdots\){{< /raw >}}
+Hasil: $E=mc^2$
 
 b. Matematika Blok
 Gunakan tanda dolar ganda ($$) untuk membuat ekspresi matematika dalam bentuk blok.
 
 Contoh:
-```tex
+```markdown
 $$
 \int_a^b f(x) \ dx = F(b) - F(a)
 $$
 ```
 Hasil: 
-$$ \int_a^b f(x) \ dx = F(b) - F(a) $$
+$$\int_a^b f(x) \ dx = F(b) - F(a)$$
 
 c. Operator Matematika
 KaTeX mendukung berbagai operator matematika, termasuk:
@@ -110,7 +110,7 @@ Perkalian: x \cdot y atau x \times y
 Pecahan: \frac{a}{b}
 Akar: \sqrt{x}
 Contoh:
-```tex
+```markdown
 $$
 \frac{1}{\sqrt{2\pi}} e^{-\frac{x^2}{2}}
 $$
@@ -127,7 +127,7 @@ Greek kecil: \alpha, \beta, \gamma
 Greek besar: \Gamma, \Delta
 Lainnya: \infty (tak hingga), \partial (derivatif parsial), \nabla (operator nabla)
 Contoh:
-```tex
+```markdown
 $\alpha + \beta = \gamma$
 ```
 Hasil:
@@ -137,7 +137,7 @@ e. Matriks dan Sistem Persamaan
 KaTeX mendukung format matriks menggunakan perintah \begin{matrix}.
 
 Contoh:
-```tex
+```markdown
 $$
 \begin{bmatrix}
 a & b \\
@@ -164,7 +164,7 @@ Teks Tebal: \mathbf{A} untuk huruf tebal.
 Huruf Miring: \mathit{A} untuk huruf miring.
 Ukuran Font: \small, \large, \Huge.
 Contoh:
-```tex
+```markdown
 $$
 \mathbf{F} = \frac{d}{dt} \mathit{p}
 $$
