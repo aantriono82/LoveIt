@@ -16,6 +16,10 @@ tags: ["LaTeX", "KaTeX"]
 categories: ["LaTeX"]
 
 lightgallery: true
+toc:
+  auto: false
+math:
+  enable: true
 ---
 
 Artikel ini membahas tentang penulisan ekspresi matematika di markdown menggunakan KaTeX.
@@ -92,7 +96,6 @@ $c = \pm\sqrt{a^2 + b^2}$ and \\(f(x)=\int_{-\infty}^{\infty} \hat{f}(\xi) e^{2 
 ```
 Hasil:
 $E=mc^2$
-$c = \pm\sqrt{a^2 + b^2}$ and \\(f(x)=\int_{-\infty}^{\infty} \hat{f}(\xi) e^{2 \pi i \xi x} d \xi\\)
 
 $c = \pm\sqrt{a^2 + b^2}$ and \\(f(x)=\int_{-\infty}^{\infty} \hat{f}(\xi) e^{2 \pi i \xi x} d \xi\\)
 
