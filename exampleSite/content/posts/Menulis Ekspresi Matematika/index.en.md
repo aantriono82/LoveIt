@@ -20,7 +20,7 @@ toc:
   auto: false
 math:
   enable: true
-twemoji: false
+twemoji: true
 ---
 
 Artikel ini membahas tentang penulisan ekspresi matematika di markdown menggunakan KaTeX.
