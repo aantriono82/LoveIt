@@ -231,4 +231,4 @@ Hasilnya akan dirender sesuai dengan konfigurasi KaTeX Anda.
 ## Kesimpulan
 Dengan KaTeX, Anda dapat membuat ekspresi matematika yang indah dan efisien di Markdown. Langkah-langkah pengaturan sederhana dan dukungan sintaks LaTeX yang luas menjadikan KaTeX pilihan yang sangat baik untuk kebutuhan matematika online. Pastikan untuk menyesuaikan pengaturan sesuai proyek Anda agar KaTeX berjalan optimal.
 
-Dan jika Anda ingin mendalami tentang LaTeX atau TeX, Anda bisa berkunjung [ke sini] (https://www.aantriono.com/2022/07/buku-panduan-belajar-latex.html). Langsung check out. smiley
+Dan jika Anda ingin mendalami tentang LaTeX atau TeX, Anda bisa berkunjung [ke sini] (https://www.aantriono.com/2022/07/buku-panduan-belajar-latex.html). Langsung check out. :kissing_heart
