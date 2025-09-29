@@ -26,7 +26,7 @@ Artikel ini membahas tentang penulisan ekspresi matematika di markdown menggunak
 
 <!--more-->
 ## Menulis Ekspresi Matematika Menggunakan KaTeX di Markdown
-KaTeX adalah pustaka JavaScript yang memungkinkan Anda untuk merender ekspresi matematika menggunakan sintaks LaTeX di halaman web. KaTeX dikenal cepat dan ringan, membuatnya ideal untuk menampilkan ekspresi matematika di Markdown, terutama dalam aplikasi web atau statis seperti Hugo, Jekyll, atau situs HTML biasa.
+KaTeX adalah pustaka JavaScript yang memungkinkan Anda untuk merender ekspresi matematika menggunakan sintaks LaTeX di halaman web. KaTeX dikenal cepat dan ringan, membuatnya ideal untuk menampilkan ekspresi matematika di Markdown, terutama dalam aplikasi web statis seperti Hugo, Jekyll, atau situs HTML biasa.
 
 Artikel ini akan menjelaskan cara menulis ekspresi matematika menggunakan KaTeX di Markdown, termasuk pengaturan dasar, sintaks LaTeX yang didukung, dan beberapa contoh penggunaan. Dengan panduan ini, Anda dapat membuat dokumen Markdown yang menyajikan ekspresi matematika secara profesional.
 
@@ -229,3 +229,5 @@ Hasilnya akan dirender sesuai dengan konfigurasi KaTeX Anda.
 
 ## Kesimpulan
 Dengan KaTeX, Anda dapat membuat ekspresi matematika yang indah dan efisien di Markdown. Langkah-langkah pengaturan sederhana dan dukungan sintaks LaTeX yang luas menjadikan KaTeX pilihan yang sangat baik untuk kebutuhan matematika online. Pastikan untuk menyesuaikan pengaturan sesuai proyek Anda agar KaTeX berjalan optimal.
+
+Dan jika Anda ingin mendalami tentang LaTeX atau TeX, Anda bisa berkunjung [ke sini] (https://www.aantriono.com/2022/07/buku-panduan-belajar-latex.html). Langsung check out.
