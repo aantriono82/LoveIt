@@ -27,7 +27,7 @@ passionate in  **Blogger**, **Teacher**, and **Writer LaTeX**.
 > 
 > Salam hormat saya.
 >
-> Hamba yang dhaif dan fakir
+> 
 >
 > 
 > Aan Triono
