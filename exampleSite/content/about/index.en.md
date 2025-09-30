@@ -10,7 +10,7 @@ lightgallery: true
 math:
   enable: true
 ---
-
+![Aan Triono](/images/aan.png)
 > [:(far fa-kiss-wink-heart fa-fw): I am](https://www.aantriono.com) a learner teacher who is
 passionate in  **Blogger**, **Teacher**, and **Writer LaTeX**.
 > 
