@@ -12,7 +12,6 @@ math:
 ---
 
 
-[Aan Triono](/assets/images/logo.jpg)
 > [:(far fa-kiss-wink-heart fa-fw): I am](https://www.aantriono.com) a learner teacher who is
 passionate in  **Blogger**, **Teacher**, and **Writer LaTeX**.
 > 
