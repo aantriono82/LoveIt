@@ -23,13 +23,8 @@ Artikel ini membahas tentang perbedaan sistem operasi BSD dan GNU/Linux
 <!--more-->
 
 {{< admonition >}}
-Ketika datang ke sistem operasi yang paling berpengaruh sepanjang masa, Anda tidak bisa pergi tanpa menyebutkan Unix, Linux, dan BSD. Dunia modern kita tidak bisa ada tanpa sistem operasi ini.
-
-Dan sementara mereka berbagi kesamaan dalam prinsip dan fungsi dasarnya, ada juga perbedaan berbeda yang membedakan mereka.
-
+Ketika datang ke sistem operasi yang paling berpengaruh sepanjang masa, Anda tidak bisa pergi tanpa menyebutkan Unix, Linux, dan BSD. Dunia modern kita tidak bisa ada tanpa sistem operasi ini. Dan sementara mereka berbagi kesamaan dalam prinsip dan fungsi dasarnya, ada juga perbedaan berbeda yang membedakan mereka.
 Yang mengatakan, dalam artikel ini, tujuan kami adalah untuk menjelaskan dan membandingkan sistem operasi ini, mengeksplorasi asal-usul, karakteristik, dan penggunaan mereka.
-
-Mari kita selami.
 {{< /admonition >}}
 
 ## *Unix*
@@ -48,7 +43,7 @@ Arsitektur dan portabilitasnya yang terbuka menjadikannya pilihan yang menarik u
 
 Unix menginspirasi sejumlah besar sistem operasi, termasuk Linux dan BSD, yang dibangun di atas prinsip-prinsip intinya dan memperluas fungsinya.
 
-### *BSD*
+## *BSD*
 
 BSD (Distribusi Perangkat Lunak Berkeley) muncul dari Unix pada akhir 1970an di University of California, Berkeley.
 
@@ -56,7 +51,7 @@ Ini dimulai sebagai serangkaian modifikasi dan peningkatan pada basis kode Unix 
 
 Salah satu kontribusi utama BSD adalah pengenalan tumpukan protokol jaringan TCP/IP, yang menjadi dasar bagi Internet modern. BSD juga memperkenalkan editor vi, yang tetap menjadi pilihan populer di kalangan pengembang dan administrator sistem hingga hari ini.
 
-#### *Iterasi Modern dari BSD*
+### *Iterasi Modern dari BSD*
 
 Seiring waktu, BSD berevolusi menjadi ekosistemnya sendiri yang berbeda, dengan varian seperti FreeBSD, OpenBSD, dan NetBSD. Masing-masing varian ini memiliki fokus dan kekuatan tersendiri.
 
@@ -64,7 +59,7 @@ FreeBSD dikenal karena kinerja dan skalabilitasnya, menjadikannya pilihan popule
 
 Keluarga sistem operasi BSD telah memainkan peran penting dalam pengembangan banyak teknologi modern, termasuk kernel Darwin yang digunakan dalam macOS dan iOS, serta sistem operasi PlayStation 4.
 
-### *Linux*
+## *Linux*
 
 Linux, pendatang baru, meledak ke tempat kejadian pada tahun 1991, diciptakan oleh Linus Torvalds, yang saat itu seorang mahasiswa di University of Helsinki di Finlandia.
 
@@ -74,7 +69,7 @@ Tidak seperti Unix dan BSD, Linux tidak langsung diturunkan dari basis kode Unix
 
 Namun, Linux sangat kompatibel dengan Unix dan berbagi banyak konsep inti dan prinsip desain.
 
-### *GNU*
+## *GNU*
 
 Salah satu faktor kunci yang berkontribusi terhadap pertumbuhan dan popularitas Linux yang cepat adalah integrasinya dengan proyek GNU.
 
@@ -97,7 +92,6 @@ Saat ini, sistem operasi Linux memberi kekuatan pada beragam perangkat dan siste
 Distribusi populer termasuk Ubuntu, Debian, Fedora, dan Red Hat Enterprise Linux, di antara banyak lainnya.
 
 Keberhasilan Linux dan adopsi luas telah membuatnya menjadi bagian penting dari lanskap komputasi modern, dan pengaruhnya terus membentuk masa depan teknologi.
-
 
 
 ## *Kernel dan Arsitektur*
@@ -128,7 +122,7 @@ Mereka juga dapat menampilkan lingkungan desktop yang berbeda, seperti GNOME, KD
 
 Secara keseluruhan, kernel dan arsitektur Unix, BSD, dan sistem Linux memainkan peran penting dalam menentukan kinerja, keamanan, dan fleksibilitas mereka. Sementara berbagi beberapa akar umum dan prinsip desain, setiap sistem telah berevolusi dengan caranya sendiri yang unik, menawarkan fitur yang berbeda dan manfaat bagi pengguna dan pengembang.
 
-### *Ekosistem dan Komunitas*
+## *Ekosistem dan Komunitas*
 
 Ekosistem Unix mencakup berbagai penawaran komersial dan sumber terbuka. Sementara varian Unix komersial telah melihat penurunan penggunaan yang mendukung Linux dan BSD, mereka masih menggerakkan sistem mission-critical di industri seperti keuangan, telekomunikasi, kedirgantaraan, dll.
 
@@ -136,7 +130,7 @@ Komunitas BSD, yang dikenal karena dedikasi mereka terhadap kualitas dan keamana
 
 Linux dengan mudah memiliki ekosistem yang paling luas di antara ketiganya, dengan ribuan distribusi yang melayani beragam kasus penggunaan.
 
-### *Gunakan Kasus dan Pertimbangan*
+## *Gunakan Kasus dan Pertimbangan*
 
 Memilih antara Linux, BSD, dan Unix tergantung pada faktor-faktor seperti persyaratan sistem, pertimbangan kinerja, kompatibilitas perangkat lunak, dan preferensi pribadi.
 
@@ -150,7 +144,7 @@ Linux, dengan fleksibilitas dan adopsi yang meluas, menawarkan berbagai kasus pe
 
 Dari komputasi awan dan virtualisasi hingga komputasi desktop dan perangkat IoT, Linux memberdayakan segala sesuatu mulai dari sistem tertanam terkecil hingga superkomputer terbesar.
 
-### *Interoperabilitas dan Kompatibilitas*
+## *Interoperabilitas dan Kompatibilitas*
 
 Terlepas dari perbedaan mereka, sistem Linux, BSD, dan Unix berbagi keturunan yang sama dan mematuhi banyak standar dan konvensi yang sama. Hal ini memungkinkan untuk tingkat tinggi interoperabilitas dan kompatibilitas antara mereka.
 
