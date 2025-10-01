@@ -34,14 +34,13 @@ Menulis konten untuk Web itu melelahkan. Editor WYSIWYG membantu meringankan tug
 
 Markdown adalah cara yang lebih baik untuk menulis HTMLHTML, tanpa semua kompleksitas dan keburukan yang biasanya menyertainya.
 
-Beberapa manfaat utama adalah:
+Beberapa manfaat utama Markdown adalah:
 
-    Markdown mudah dipelajari, dengan karakter tambahan minimal, jadi juga lebih cepat untuk menulis konten.
-    Kurangnya kemungkinan kesalahan saat menulis di Markdown.
-    Menghasilkan output XHTML yang valid.
-    Menjaga konten dan tampilan visual terpisah, sehingga Anda tidak dapat mengacaukan tampilan situs Anda.
-    Tulis di editor teks atau aplikasi Markdown yang Anda sukai.
-    Markdown adalah sukacita untuk digunakan!
+   1. Markdown mudah dipelajari, dengan karakter tambahan minimal, jadi juga lebih cepat untuk menulis konten.
+   2. Kurangnya kemungkinan kesalahan saat menulis di Markdown.
+   3. Menghasilkan output XHTML yang valid.
+   4. Menjaga konten dan tampilan visual terpisah, sehingga Anda tidak dapat mengacaukan tampilan situs Anda.
+   5. Tulis di editor teks atau aplikasi Markdown yang Anda sukai.
 
 John Gruber, penulis Markdown, mengatakannya seperti ini:
 
