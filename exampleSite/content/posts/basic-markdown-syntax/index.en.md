@@ -32,7 +32,7 @@ Jika Anda ingin mengetahui secara lebih lengkap, silakan baca halaman [Sintaks M
 
 Menulis konten untuk Web itu melelahkan. Editor WYSIWYG membantu meringankan tugas ini, tetapi mereka umumnya menghasilkan kode yang mengerikan, atau lebih buruk lagi, halaman web jelek.
 
-Markdown adalah cara yang lebih baik untuk menulis HTMLHTML, tanpa semua kompleksitas dan keburukan yang biasanya menyertainya.
+Markdown adalah cara yang lebih baik untuk menulis HTML, tanpa semua kompleksitas dan kekurangan yang biasanya menyertainya.
 
 Beberapa manfaat utama Markdown adalah:
 
