@@ -27,7 +27,7 @@ Artikel ini membahas contoh sintaks Markdown dasar yang dapat digunakan dalam fi
 {{< admonition >}}
 Artikel ini adalah salinan dari halaman [Grav original page](https://learn.getgrav.org/content/markdown) yang hebat.
 
-Jika Anda ingin mengetahui secara lebih lengkap, silakan baca halaman [extended Markdown syntax page](../theme-documentation-content#extended-markdown-syntax).
+Jika Anda ingin mengetahui secara lebih lengkap, silakan baca halaman [Sintaks Markdown](../theme-documentation-content#extended-markdown-syntax).
 {{< /admonition >}}
 
 Menulis konten untuk Web itu melelahkan. Editor WYSIWYG membantu meringankan tugas ini, tetapi mereka umumnya menghasilkan kode yang mengerikan, atau lebih buruk lagi, halaman web jelek.
