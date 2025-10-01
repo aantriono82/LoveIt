@@ -134,13 +134,13 @@ animal tacimates complectitur ad cum. Cu eum inermis inimicus efficiendi. Labore
 soluta officiis concludaturque ei qui, vide sensibus vim ad.
 ```
 
-HTML terlihat seperti berikut:
+Di HTML terlihat seperti berikut:
 
 ```html
 <p>Lorem ipsum dolor sit amet, graecis denique ei vel, at duo primis mandamus. Et legere ocurreret pri, animal tacimates complectitur ad cum. Cu eum inermis inimicus efficiendi. Labore officiis his ex, soluta officiis concludaturque ei qui, vide sensibus vim ad.</p>
 ```
 
-**baris pemisah** dapat dilakukan dengan satu baris kosong..
+**Baris pemisah** dapat dilakukan dengan satu baris kosong..
 
 ## 5 Inline HTML
 
@@ -162,14 +162,14 @@ Paragrap di Markdown.
 
 Untuk menekankan cuplikan teks dengan berat font yang lebih berat.
 
-Cuplikan teks berikut dianggap sebagai**teks yang dibold**.
+Cuplikan teks berikut dianggap sebagai **teks yang dibold**.
 
 ```markdown
 **teks yang dibold**
 __teks yang dibold__
 ```
 
-HTML terlihat seperti berikut:
+Di HTML terlihat seperti berikut:
 
 ```html
 <strong>teks yang dibold</strong>
@@ -186,7 +186,7 @@ Cuplikan teks berikut ini dianggap sebagai _teks yang dicetak miring_.
 _teks yang dicetak miring_
 ```
 
-HTML akan terlihat seperti berikut:
+Di HTML akan terlihat seperti berikut:
 
 ```html
 <em>teks yang dicetak miring</em>
@@ -203,15 +203,15 @@ Dalam [[GFM]^(GitHub flavored Markdown)](https://github.github.com/gfm/) kamu da
 Keluaran yang diberikan terlihat seperti ini:
 ~~Strike through this text.~~
 
-HTML terlihat seperti berikut:
+Di HTML terlihat seperti berikut:
 
 ```html
-<del>Teks ini di -strike through .</del>
+<del>Teks ini di-strike through .</del>
 ```
 
 ### Kombinasi
 
-Bold, italics, and strikethrough dapat dilakukan dalam kombinasi:
+Bold, italics, dan strikethrough dapat dilakukan dalam kombinasi:
 
 ```markdown
 ***bold dan italics***
@@ -230,7 +230,7 @@ Keluaran yang dihasilkan akan terlihat seperti berikut:
 
 ~~***bold, italics dan strikethrough***~~
 
-HTML terlihat seperti berikut:
+Di HTML terlihat seperti berikut:
 ```html
 <em><strong>bold dan italics</strong></em>
 <del><strong>strikethrough dan bold</strong></del>
@@ -252,7 +252,7 @@ Keluaran terilhat seperti berikut:
 
 > **Fusion Drive** menggabungkan hard drive dengan penyimpanan flash (solid-state drive) dan menyajikannya sebagai volume logis tunggal dengan ruang kedua drive digabungkan.
 
-HTML terlihat seperti berikut:
+Di HTML terlihat seperti berikut:
 
 ```html
 <blockquote>
@@ -324,7 +324,7 @@ Keluaran yang dihasilkan terlihat seperti berikut:
 * Aenean sit amet erat nunc
 * Eget porttitor lorem
 
-HTML seperti berikut:
+Di HTML seperti berikut:
 
 ```html
 <ul>
@@ -371,7 +371,7 @@ Keluaran yang dihasilkan terlihat seperti berikut:
 7. Aenean sit amet erat nunc
 8. Eget porttitor lorem
 
-HTML terlihat seperti berikut::
+Di HTML terlihat seperti berikut::
 
 ```html
 <ol>
@@ -442,7 +442,7 @@ Keluaran yang dihasilkan terlihat seperti berikut:
 
 In this example, `<section></section>` should be wrapped as **code**.
 
-HTML terlihat seperti berikut:
+Di HTML terlihat seperti berikut:
 
 ```html
 <p>
@@ -467,7 +467,7 @@ Keluaran yang dihasilkan terlihat seperti berikut:
     baris 2 dari kode
     baris 3 dari kode
 
-HTML terlihat seperti berikut:
+Di HTML terlihat seperti berikut:
 
 ```html
 <pre>
@@ -490,7 +490,7 @@ Contoh teks di sini...
 ```
 {{< / highlight >}}
 
-HTML terlihat seperti berikut:
+Di HTML terlihat seperti berikut:
 
 ```html
 <pre language-html>
@@ -576,7 +576,7 @@ Keluaran yang dihasilkan terlihat seperti berikut:
 | engine | engine to be used for processing templates. Handlebars is the default. |
 | ext    | extension to be used for dest files. |
 
-HTML terlihat seperti berikut:
+Di HTML terlihat seperti berikut:
 
 ```html
 <table>
@@ -642,7 +642,7 @@ Output yang diberikan terlihat seperti ini (hover di atas tautan, tidak ada tool
 
 [Assemble](https://assemble.io)
 
-HTML terlihat seperti berikut:
+Di HTML terlihat seperti berikut:
 
 ```html
 <a href="https://assemble.io">https://assemble.io</a>
@@ -660,7 +660,7 @@ Output yang diberikan terlihat seperti ini (hover di atas tautan, tidak ada tool
 
 [Upstage](https://github.com/upstage/ "Visit Upstage!")
 
-HTML terlihat seperti berikut:
+Di HTML terlihat seperti berikut:
 
 ```html
 <a href="https://github.com/upstage/" title="Visit Upstage!">Upstage</a>
@@ -749,3 +749,5 @@ Dengan referensi kemudian dalam dokumen yang menentukan lokasi URL:
 ```
 
 [id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
+
+Demikian artikel tentang sintaks Markdown dasar. Semoga bermanfaat. 😙
