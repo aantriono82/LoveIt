@@ -2,7 +2,7 @@
 weight: 4
 title: "Sintaks Markdown Dasar"
 date: 2025-09-01T21:57:40+08:00
-lastmod: 2025-09-01T16:45:40+08:00
+lastmod: 2025-10-01T16:45:40+08:00
 draft: false
 author: "Aan Triono"
 authorLink: "https://www.aantriono.com"
@@ -25,12 +25,12 @@ Artikel ini membahas contoh sintaks Markdown dasar yang dapat digunakan dalam fi
 <!--more-->
 
 {{< admonition >}}
-Artikel ini adalah salinan dari halaman [Grav original](https://learn.getgrav.org/content/markdown) yang lengkap.
+Artikel ini adalah salinan dari halaman [Grav original](https://learn.getgrav.org/content/markdown).
 
 Jika Anda ingin mengetahui secara lebih lengkap, silakan baca halaman [Sintaks Markdown](../theme-documentation-content#extended-markdown-syntax).
 {{< /admonition >}}
 
-Menulis konten untuk Web itu melelahkan. Editor WYSIWYG membantu meringankan tugas ini, tetapi mereka umumnya menghasilkan kode yang mengerikan, atau lebih buruk lagi, halaman web jelek.
+Menulis konten untuk Web itu melelahkan. Editor WYSIWYG membantu meringankan tugas ini, tetapi mereka umumnya menghasilkan kode yang rumit, atau lebih buruk lagi, halaman web jelek.
 
 Markdown adalah cara yang lebih baik untuk menulis HTML, tanpa semua kompleksitas dan kekurangan yang biasanya menyertainya.
 
@@ -42,7 +42,7 @@ Beberapa manfaat utama Markdown adalah:
    4. Menjaga konten dan tampilan visual terpisah, sehingga Anda tidak dapat mengacaukan tampilan situs Anda.
    5. Tulis di editor teks atau aplikasi Markdown yang Anda sukai.
 
-John Gruber, penulis Markdown, mengatakannya seperti ini:
+John Gruber, penulis Markdown, mengatakan seperti ini:
 
 
 > Tujuan desain utama untuk sintaks pemformatan Markdown adalah membuatnya dapat dibaca sebisa mungkin. 
@@ -111,7 +111,7 @@ Ini adalah sebuah komentar
 
 ## 3 Aturan Horizontal
 
-Elemen HTML `<hr>` adalah untuk menciptakan “tekakan tematik” antara elemen tingkat paragraf. Di Markdown, Anda dapat membuat `<hr>` dengan salah satu cara dari berikut:
+Elemen HTML `<hr>` adalah untuk menciptakan “tekanan tematik” antara elemen tingkat paragraf. Di Markdown, Anda dapat membuat `<hr>` dengan salah satu cara dari berikut:
 
 * `___`: tiga underscores berturut-turut
 * `---`: tiga dashes berturut-turut
@@ -122,9 +122,9 @@ ___
 ---
 ***
 
-## 4 Body Copy
+## 4 Salinan 
 
-Body copy ditulis sebagai normal, teks biasa akan dibungkus dengan <p></p> tag dalam HTML yang diberikan.
+Salinan ditulis sebagai normal, teks biasa akan dibungkus dengan `<p></p>` tag dalam HTML yang diberikan.
 
 Jadi salinan tubuh ini:
 
