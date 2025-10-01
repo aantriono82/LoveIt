@@ -92,7 +92,7 @@ Saat ini, sistem operasi Linux memberi kekuatan pada beragam perangkat dan siste
 Distribusi populer termasuk Ubuntu, Debian, Fedora, dan Red Hat Enterprise Linux, di antara banyak lainnya.
 
 Keberhasilan Linux dan adopsi luas telah membuatnya menjadi bagian penting dari lanskap komputasi modern, dan pengaruhnya terus membentuk masa depan teknologi.
-
+![Perkembangan Sistem Operasi](Unix.png)
 
 ## *Kernel dan Arsitektur*
 
