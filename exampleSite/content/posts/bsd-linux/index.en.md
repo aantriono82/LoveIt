@@ -98,7 +98,7 @@ Distribusi populer termasuk Ubuntu, Debian, Fedora, dan Red Hat Enterprise Linux
 
 Keberhasilan Linux dan adopsi luas telah membuatnya menjadi bagian penting dari lanskap komputasi modern, dan pengaruhnya terus membentuk masa depan teknologi.
 
-![Sistem Operasi](/Unix_timeline.svg)
+
 
 ## *Kernel dan Arsitektur*
 
