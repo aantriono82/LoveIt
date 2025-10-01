@@ -25,7 +25,7 @@ Artikel ini membahas contoh sintaks Markdown dasar yang dapat digunakan dalam fi
 <!--more-->
 
 {{< admonition >}}
-Artikel ini adalah salinan dari halaman [Grav original page](https://learn.getgrav.org/content/markdown) yang hebat.
+Artikel ini adalah salinan dari halaman [Grav original](https://learn.getgrav.org/content/markdown) yang lengkap.
 
 Jika Anda ingin mengetahui secara lebih lengkap, silakan baca halaman [Sintaks Markdown](../theme-documentation-content#extended-markdown-syntax).
 {{< /admonition >}}
