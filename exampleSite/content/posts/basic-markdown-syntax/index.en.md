@@ -1,12 +1,12 @@
 ---
 weight: 4
-title: "Basic Markdown Syntax"
+title: "Sintaks Markdown Dasar"
 date: 2025-09-01T21:57:40+08:00
 lastmod: 2025-09-01T16:45:40+08:00
 draft: false
 author: "Aan Triono"
 authorLink: "https://www.aantriono.com"
-description: "This article shows the basic Markdown syntax and format."
+description: "Artikel ini membahas tentang sintaks markdown dasar."
 images: []
 resources:
 - name: "featured-image"
@@ -20,48 +20,47 @@ math:
 lightgallery: true
 ---
 
-This article offers a sample of basic Markdown syntax that can be used in Hugo content files.
+Artikel ini membahas contoh sintaks Markdown dasar yang dapat digunakan dalam file konten Hugo.
 
 <!--more-->
 
 {{< admonition >}}
-This article is a shameful copy of the great [Grav original page](https://learn.getgrav.org/content/markdown).
+Artikel ini adalah salinan dari halaman [Grav original page](https://learn.getgrav.org/content/markdown) yang hebat.
 
-If you want to know about the extended Markdown syntax of **LoveIt** theme, please read [extended Markdown syntax page](../theme-documentation-content#extended-markdown-syntax).
+Jika Anda ingin mengetahui secara lebih lengkap, silakan baca halaman [extended Markdown syntax page](../theme-documentation-content#extended-markdown-syntax).
 {{< /admonition >}}
 
-Let's face it: Writing content for the Web is tiresome. WYSIWYG editors help alleviate this task, but they generally result in horrible code, or worse yet, ugly web pages.
+Menulis konten untuk Web itu melelahkan. Editor WYSIWYG membantu meringankan tugas ini, tetapi mereka umumnya menghasilkan kode yang mengerikan, atau lebih buruk lagi, halaman web jelek.
 
-**Markdown** is a better way to write **HTML**, without all the complexities and ugliness that usually accompanies it.
+Markdown adalah cara yang lebih baik untuk menulis HTMLHTML, tanpa semua kompleksitas dan keburukan yang biasanya menyertainya.
 
-Some of the key benefits are:
+Beberapa manfaat utama adalah:
 
-1. Markdown is simple to learn, with minimal extra characters, so it's also quicker to write content.
-2. Less chance of errors when writing in Markdown.
-3. Produces valid XHTML output.
-4. Keeps the content and the visual display separate, so you cannot mess up the look of your site.
-5. Write in any text editor or Markdown application you like.
-6. Markdown is a joy to use!
+    Markdown mudah dipelajari, dengan karakter tambahan minimal, jadi juga lebih cepat untuk menulis konten.
+    Kurangnya kemungkinan kesalahan saat menulis di Markdown.
+    Menghasilkan output XHTML yang valid.
+    Menjaga konten dan tampilan visual terpisah, sehingga Anda tidak dapat mengacaukan tampilan situs Anda.
+    Tulis di editor teks atau aplikasi Markdown yang Anda sukai.
+    Markdown adalah sukacita untuk digunakan!
 
-John Gruber, the author of Markdown, puts it like this:
+John Gruber, penulis Markdown, mengatakannya seperti ini:
 
-> The overriding design goal for Markdown’s formatting syntax is to make it as readable as possible.
-> The idea is that a Markdown-formatted document should be publishable as-is, as plain text,
-> without looking like it’s been marked up with tags or formatting instructions.
-> While Markdown’s syntax has been influenced by several existing text-to-HTML filters,
-> the single biggest source of inspiration for Markdown’s syntax is the format of plain text email.
+
+> Tujuan desain utama untuk sintaks pemformatan Markdown adalah membuatnya dapat dibaca sebisa mungkin. 
+> Idenya adalah bahwa dokumen yang diformat Markdown harus dapat dipublikasikan sebagai-adalah, sebagai teks biasa, tanpa terlihat seperti itu telah ditandai dengan tag atau petunjuk pemformatan. 
+> Sementara sintaks Markdown telah dipengaruhi oleh beberapa filter teks-ke-HTML yang ada, Satu-satunya sumber inspirasi terbesar untuk sintaks Markdown adalah format email teks biasa.
 >
 > {{< style "text-align: right;" >}}-- _John Gruber_{{< /style >}}
 
-Without further delay, let us go over the main elements of Markdown and what the resulting HTML looks like!
+Tanpa penundaan lebih lanjut, mari kita bahas elemen utama Markdown dan seperti apa HTML yang dihasilkan!
 
 {{< admonition tip >}}
-:(far fa-bookmark fa-fw): Bookmark this page for easy future reference!
+:(far fa-bookmark fa-fw): Bookmark halaman ini untuk memudahkan referensi di masa mendatang!
 {{< /admonition >}}
 
 ## 1 Headings
 
-Headings from `h2` through `h6` are constructed with a `#` for each level:
+Headings dari `h2` sampai `h6` dibangun dengan  `#` untuk setiap level:
 
 ```markdown
 ## h2 Heading
@@ -71,7 +70,7 @@ Headings from `h2` through `h6` are constructed with a `#` for each level:
 ###### h6 Heading
 ```
 
-The HTML looks like this:
+Keluaran HTML terlihat seperti berikut:
 
 ```html
 <h2>h2 Heading</h2>
@@ -82,55 +81,53 @@ The HTML looks like this:
 ```
 
 {{< admonition note "Heading IDs" >}}
-To add a custom heading ID, enclose the custom ID in curly braces on the same line as the heading:
+Untuk menambahkan ID judul khusus, lampirkan ID khusus dalam kurung kurawal pada baris yang sama dengan judul:
 
 ```markdown
-### A Great Heading {#custom-id}
+### Judul Besar {#custom-id}
 ```
 
-The HTML looks like this:
+Keluaran HTML terlihat seperti berikut:
 
 ```html
-<h3 id="custom-id">A Great Heading</h3>
+<h3 id="custom-id">Judul Besar</h3>
 ```
 {{< /admonition >}}
 
-## 2 Comments
+## 2 Komentar
 
-Comments should be HTML compatible.
+Komentar harus kompatibel dengan HTML.
 
 ```html
 <!--
-This is a comment
+Ini adalah sebuah komentar
 -->
 ```
 
-Comment below should **NOT** be seen:
+Komentar di bawah ini **tidak** boleh dilihat:
 
 <!--
-This is a comment
+Ini adalah sebuah komentar
 -->
 
-## 3 Horizontal Rules
+## 3 Aturan Horizontal
 
-The HTML `<hr>` element is for creating a "thematic break" between paragraph-level elements.
-In Markdown, you can create a `<hr>` with any of the following:
+Elemen HTML `<hr>` adalah untuk menciptakan “tekakan tematik” antara elemen tingkat paragraf. Di Markdown, Anda dapat membuat `<hr>` dengan salah satu cara dari berikut:
 
-* `___`: three consecutive underscores
-* `---`: three consecutive dashes
-* `***`: three consecutive asterisks
+* `___`: tiga underscores berturut-turut
+* `---`: tiga dashes berturut-turut
+* `***`: tiga asterisks berturut-turut
 
-The rendered output looks like this:
-
+Keluaran yang dihasilkan terlihat seperti berikut.
 ___
 ---
 ***
 
 ## 4 Body Copy
 
-Body copy written as normal, plain text will be wrapped with `<p></p>` tags in the rendered HTML.
+Body copy ditulis sebagai normal, teks biasa akan dibungkus dengan <p></p> tag dalam HTML yang diberikan.
 
-So this body copy:
+Jadi salinan tubuh ini:
 
 ```markdown
 Lorem ipsum dolor sit amet, graecis denique ei vel, at duo primis mandamus. Et legere ocurreret pri,
@@ -138,137 +135,135 @@ animal tacimates complectitur ad cum. Cu eum inermis inimicus efficiendi. Labore
 soluta officiis concludaturque ei qui, vide sensibus vim ad.
 ```
 
-The HTML looks like this:
+HTML terlihat seperti berikut:
 
 ```html
 <p>Lorem ipsum dolor sit amet, graecis denique ei vel, at duo primis mandamus. Et legere ocurreret pri, animal tacimates complectitur ad cum. Cu eum inermis inimicus efficiendi. Labore officiis his ex, soluta officiis concludaturque ei qui, vide sensibus vim ad.</p>
 ```
 
-A **line break** can be done with one blank line.
+**baris pemisah** dapat dilakukan dengan satu baris kosong..
 
 ## 5 Inline HTML
 
-If you need a certain HTML tag (with a class) you can simply use HTML:
+ika Anda membutuhkan tag HTML tertentu (dengan kelas), Anda cukup menggunakan HTML:
 
 ```html
-Paragraph in Markdown.
+Paragrap di Markdown.
 
 <div class="class">
-    This is <b>HTML</b>
+    Ini adalah <b>HTML</b>
 </div>
 
-Paragraph in Markdown.
+Paragrap di Markdown.
 ```
 
 ## 6 Emphasis
 
 ### Bold
 
-For emphasizing a snippet of text with a heavier font-weight.
+Untuk menekankan cuplikan teks dengan berat font yang lebih berat.
 
-The following snippet of text is **rendered as bold text**.
+Cuplikan teks berikut dianggap sebagai**teks yang dibold**.
 
 ```markdown
-**rendered as bold text**
-__rendered as bold text__
+**teks yang dibold**
+__teks yang dibold__
 ```
 
-The HTML looks like this:
+HTML terlihat seperti berikut:
 
 ```html
-<strong>rendered as bold text</strong>
+<strong>teks yang dibold</strong>
 ```
 
 ### Italics
 
-For emphasizing a snippet of text with italics.
+Untuk menekankan cuplikan teks dengan huruf miring.
 
-The following snippet of text is _rendered as italicized text_.
+Cuplikan teks berikut ini dianggap sebagai _teks yang dicetak miring_.
 
 ```markdown
-*rendered as italicized text*
-_rendered as italicized text_
+*teks yang dicetak miring*
+_teks yang dicetak miring_
 ```
 
-The HTML looks like this:
+HTML akan terlihat seperti berikut:
 
 ```html
-<em>rendered as italicized text</em>
+<em>teks yang dicetak miring</em>
 ```
 
 ### Strikethrough
 
-In [[GFM]^(GitHub flavored Markdown)](https://github.github.com/gfm/) you can do strikethroughs.
+Dalam [[GFM]^(GitHub flavored Markdown)](https://github.github.com/gfm/) kamu dapat melakukan strikethroughs.
 
 ```markdown
 ~~Strike through this text.~~
 ```
 
-The rendered output looks like this:
-
+Keluaran yang diberikan terlihat seperti ini:
 ~~Strike through this text.~~
 
-The HTML looks like this:
+HTML terlihat seperti berikut:
 
 ```html
-<del>Strike through this text.</del>
+<del>Teks ini di -strike through .</del>
 ```
 
-### Combination
+### Kombinasi
 
-Bold, italics, and strikethrough can be used in combination.
+Bold, italics, and strikethrough dapat dilakukan dalam kombinasi:
 
 ```markdown
-***bold and italics***
-~~**strikethrough and bold**~~
-~~*strikethrough and italics*~~
-~~***bold, italics and strikethrough***~~
+***bold dan italics***
+~~**strikethrough dan bold**~~
+~~*strikethrough dan italics*~~
+~~***bold, italics dan strikethrough***~~
 ```
 
-The rendered output looks like this:
+Keluaran yang dihasilkan akan terlihat seperti berikut:
 
-***bold and italics***
+***bold dan italics***
 
-~~**strikethrough and bold**~~
+~~**strikethrough dan bold**~~
 
-~~*strikethrough and italics*~~
+~~*strikethrough dan italics*~~
 
-~~***bold, italics and strikethrough***~~
+~~***bold, italics dan strikethrough***~~
 
-The HTML looks like this:
-
+HTML terlihat seperti berikut:
 ```html
-<em><strong>bold and italics</strong></em>
-<del><strong>strikethrough and bold</strong></del>
-<del><em>strikethrough and italics</em></del>
-<del><em><strong>bold, italics and strikethrough</strong></em></del>
+<em><strong>bold dan italics</strong></em>
+<del><strong>strikethrough dan bold</strong></del>
+<del><em>strikethrough dan italics</em></del>
+<del><em><strong>bold, italics dan strikethrough</strong></em></del>
 ```
 
 ## 7 Blockquotes
 
-For quoting blocks of content from another source within your document.
+Untuk mengutip blockquotes dari sumber lain dalam dokumen Anda.
 
-Add `>` before any text you want to quote:
+Tambahkan `>` sebelum teks apa pun yang ingin Anda kutip:
 
 ```markdown
-> **Fusion Drive** combines a hard drive with a flash storage (solid-state drive) and presents it as a single logical volume with the space of both drives combined.
+> **Fusion Drive** menggabungkan hard drive dengan penyimpanan flash (solid-state drive) dan menyajikannya sebagai volume logis tunggal dengan ruang kedua drive digabungkan.
 ```
 
-The rendered output looks like this:
+Keluaran terilhat seperti berikut:
 
-> **Fusion Drive** combines a hard drive with a flash storage (solid-state drive) and presents it as a single logical volume with the space of both drives combined.
+> **Fusion Drive** menggabungkan hard drive dengan penyimpanan flash (solid-state drive) dan menyajikannya sebagai volume logis tunggal dengan ruang kedua drive digabungkan.
 
-The HTML looks like this:
+HTML terlihat seperti berikut:
 
 ```html
 <blockquote>
   <p>
-    <strong>Fusion Drive</strong> combines a hard drive with a flash storage (solid-state drive) and presents it as a single logical volume with the space of both drives combined.
+    <strong>Fusion Drive</strong> menggabungkan hard drive dengan penyimpanan flash (solid-state drive) dan menyajikannya sebagai volume logis tunggal dengan ruang kedua drive digabungkan.
   </p>
 </blockquote>
 ```
 
-Blockquotes can also be nested:
+Blockquotes juga dapat bertingkat:
 
 ```markdown
 > Donec massa lacus, ultricies a ullamcorper in, fermentum sed augue.
@@ -277,20 +272,20 @@ Nunc augue augue, aliquam non hendrerit ac, commodo vel nisi.
 odio non est accumsan facilisis. Aliquam id turpis in dolor tincidunt mollis ac eu diam.
 ```
 
-The rendered output looks like this:
+Keluaran terlihat seperti berikut:
 
 > Donec massa lacus, ultricies a ullamcorper in, fermentum sed augue.
 Nunc augue augue, aliquam non hendrerit ac, commodo vel nisi.
 >> Sed adipiscing elit vitae augue consectetur a gravida nunc vehicula. Donec auctor
 odio non est accumsan facilisis. Aliquam id turpis in dolor tincidunt mollis ac eu diam.
 
-## 8 Lists
+## 8 Daftar
 
-### Unordered
+### Tidak Berurut
 
-A list of items in which the order of the items does not explicitly matter.
+Daftar item di mana urutan item tidak secara eksplisit penting.
 
-You may use any of the following symbols to denote bullets for each list item:
+Anda dapat menggunakan salah satu simbol berikut untuk menunjukkan bullets untuk setiap item daftar:
 
 ```markdown
 * valid bullet
@@ -298,7 +293,7 @@ You may use any of the following symbols to denote bullets for each list item:
 + valid bullet
 ```
 
-For example:
+Sebagai contoh
 
 ```markdown
 * Lorem ipsum dolor sit amet
@@ -315,7 +310,7 @@ For example:
 * Eget porttitor lorem
 ```
 
-The rendered output looks like this:
+Keluaran yang dihasilkan terlihat seperti berikut:
 
 * Lorem ipsum dolor sit amet
 * Consectetur adipiscing elit
@@ -330,7 +325,7 @@ The rendered output looks like this:
 * Aenean sit amet erat nunc
 * Eget porttitor lorem
 
-The HTML looks like this:
+HTML seperti berikut:
 
 ```html
 <ul>
@@ -352,9 +347,9 @@ The HTML looks like this:
 </ul>
 ```
 
-### Ordered
+### Berurut
 
-A list of items in which the order of items does explicitly matter.
+Daftar item di mana urutan item secara eksplisit penting.
 
 ```markdown
 1. Lorem ipsum dolor sit amet
@@ -367,8 +362,7 @@ A list of items in which the order of items does explicitly matter.
 8. Eget porttitor lorem
 ```
 
-The rendered output looks like this:
-
+Keluaran yang dihasilkan terlihat seperti berikut:
 1. Lorem ipsum dolor sit amet
 2. Consectetur adipiscing elit
 3. Integer molestie lorem at massa
@@ -378,7 +372,7 @@ The rendered output looks like this:
 7. Aenean sit amet erat nunc
 8. Eget porttitor lorem
 
-The HTML looks like this:
+HTML terlihat seperti berikut::
 
 ```html
 <ol>
@@ -394,7 +388,7 @@ The HTML looks like this:
 ```
 
 {{< admonition tip >}}
-If you just use `1.` for each number, Markdown will automatically number each item. For example:
+Jika Anda hanya menggunakan `1.` untuk setiap nomor, Markdown akan secara otomatis mengurutkan nomor setiap item. Sebagai contoh: 
 
 ```markdown
 1. Lorem ipsum dolor sit amet
@@ -407,7 +401,7 @@ If you just use `1.` for each number, Markdown will automatically number each it
 1. Eget porttitor lorem
 ```
 
-The rendered output looks like this:
+Keluaran yang dihasilkan terlihat seperti berikut:
 
 1. Lorem ipsum dolor sit amet
 1. Consectetur adipiscing elit
@@ -419,37 +413,37 @@ The rendered output looks like this:
 1. Eget porttitor lorem
 {{< /admonition >}}
 
-### Task Lists
+### Daftar Tugas
 
-Task lists allow you to create a list of items with checkboxes. To create a task list, add dashes (`-`) and brackets with a space (`[ ]`) before task list items. To select a checkbox, add an x in between the brackets (`[x]`).
+Daftar tugas memungkinkan Anda membuat daftar item dengan kotak centang. Untuk membuat daftar tugas, tambahkan dashes (`-`) dan brackets dengan spasi (`[ ]`) sebelum item daftar tugas. Untuk memilih kotak centang, tambahkan x diantara kurung (`[x]`).
 
 ```markdown
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
+- [x] Tulis siaran pers
+- [ ] Update website
+- [ ] Hubungi media
 ```
 
 The rendered output looks like this:
 
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
+- [x] Tulis siaran pers
+- [ ] Update website
+- [ ] Hubungi media
 
-## 9 Code
+## 9 Kode
 
-### Inline Code
+### kode Sebaris
 
-Wrap inline snippets of code with <code>`</code>.
+Bungkus dalam cuplikan kode dengan `<code></code>`.
 
 ```markdown
 In this example, `<section></section>` should be wrapped as **code**.
 ```
 
-The rendered output looks like this:
+Keluaran yang dihasilkan terlihat seperti berikut:
 
 In this example, `<section></section>` should be wrapped as **code**.
 
-The HTML looks like this:
+HTML terlihat seperti berikut:
 
 ```html
 <p>
@@ -457,63 +451,61 @@ The HTML looks like this:
 </p>
 ```
 
-### Indented Code
+### Kode Teridentifikasi
 
-Or indent several lines of code by at least four spaces, as in:
+Atau berbagai baris kode dengan setidaknya empat ruang, seperti dalam:
 
 ```markdown
-    // Some comments
-    line 1 of code
-    line 2 of code
-    line 3 of code
+    // Beberapa komentar
+    baris 1 dari kode
+    baris 2 dari kode
+    baris 3 dari kode
 ```
 
-The rendered output looks like this:
+Keluaran yang dihasilkan terlihat seperti berikut:
+    // Beberapa komentar
+    baris 1 dari kode
+    baris 2 dari kode
+    baris 3 dari kode
 
-    // Some comments
-    line 1 of code
-    line 2 of code
-    line 3 of code
-
-The HTML looks like this:
+HTML terlihat seperti berikut:
 
 ```html
 <pre>
   <code>
-    // Some comments
-    line 1 of code
-    line 2 of code
-    line 3 of code
+    // Beberapa komentar
+    baris 1 dari kode
+    baris 2 dari kode
+    baris 3 dari kode
   </code>
 </pre>
 ```
 
-### Block Fenced Code
+### Blok Kode Bertanda
 
-Use "fences" <code>```</code> to block in multiple lines of code with a language attribute.
+Gunakan "tanda" <code>```</code> untuk memblokir dalam beberapa baris kode dengan atribut bahasa.
 
 {{< highlight markdown >}}
 ```markdown
-Sample text here...
+Contoh teks di sini...
 ```
 {{< / highlight >}}
 
-The HTML looks like this:
+HTML terlihat seperti berikut:
 
 ```html
 <pre language-html>
-  <code>Sample text here...</code>
+  <code>Contoh teks di sini...</code>
 </pre>
 ```
 
-### Syntax Highlighting
+### Penyorotan Sintaks
 
-[GFM]^(GitHub Flavored Markdown) also supports syntax highlighting.
+[GFM]^(GitHub Flavored Markdown) juga mendukung penyorotan sintaks.
 
-To activate it, simply add the file extension of the language you want to use directly after the first code "fence",
-<code>```js</code>, and syntax highlighting will automatically be applied in the rendered HTML.
+Untuk mengaktifkannya, cukup tambahkan ekstensi file dari bahasa yang ingin Anda gunakan langsung setelah kode pertama "tanda", ```js, dan sinkped sintaks secara otomatis akan diterapkan dalam HTML yang diberikan.
 
-For example, to apply syntax highlighting to JavaScript code:
+Misalnya, untuk menerapkan sinkped sintaks ke kode JavaScript: 
 
 {{< highlight markdown >}}
 ```js
@@ -538,7 +530,7 @@ grunt.initConfig({
 ```
 {{< / highlight >}}
 
-The rendered output looks like this:
+Keluaran yang dihasilkan terlihat seperti berikut:
 
 ```js
 grunt.initConfig({
@@ -562,12 +554,12 @@ grunt.initConfig({
 ```
 
 {{< admonition >}}
-[Syntax highlighting page](https://gohugo.io/content-management/syntax-highlighting/) in **Hugo** Docs introduces more about syntax highlighting, including highlight shortcode.
+[Syntax highlighting page](https://gohugo.io/content-management/syntax-highlighting/)  di **Hugo** Docs memperkenalkan lebih banyak tentang sorotan sintaks, termasuk sorotan shortcode.
 {{< /admonition >}}
 
-## 10 Tables
+## 10 Tabel
 
-Tables are created by adding pipes as dividers between each cell, and by adding a line of dashes (also separated by bars) beneath the header. Note that the pipes do not need to be vertically aligned.
+Tabel dibuat dengan menambahkan pipa sebagai pembagi diantara setiap sel, dan dengan menambahkan garis-garis dashes (juga dipisahkan oleh batang) di bawah header. Perhatikan bahwa pipa tidak perlu disejajarkan secara vertikal.
 
 ```markdown
 | Option | Description |
@@ -577,7 +569,7 @@ Tables are created by adding pipes as dividers between each cell, and by adding 
 | ext    | extension to be used for dest files. |
 ```
 
-The rendered output looks like this:
+Keluaran yang dihasilkan terlihat seperti berikut:
 
 | Option | Description |
 | ------ | ----------- |
@@ -585,7 +577,7 @@ The rendered output looks like this:
 | engine | engine to be used for processing templates. Handlebars is the default. |
 | ext    | extension to be used for dest files. |
 
-The HTML looks like this:
+HTML terlihat seperti berikut:
 
 ```html
 <table>
@@ -613,9 +605,9 @@ The HTML looks like this:
 ```
 
 {{< admonition note "Right or center aligned text" >}}
-Adding a colon on the right side of the dashes below any heading will right align text for that column.
+Menambahkan colon (titik dua) di sisi kanan dasbor di bawah judul apa pun akan menyelaraskan teks untuk kolom itu.
 
-Adding colons on both sides of the dashes below any heading will center align text for that column.
+Menambahkan colon (titik dua) di kedua sisi garis di bawah judul apa pun akan berpusat menyelaraskan teks untuk kolom itu.
 
 ```markdown
 | Option | Description |
@@ -625,8 +617,7 @@ Adding colons on both sides of the dashes below any heading will center align te
 | ext    | extension to be used for dest files. |
 ```
 
-The rendered output looks like this:
-
+Keluaran yang dihasilkan terlihat seperti berikut:
 | Option | Description |
 |:------:| -----------:|
 | data   | path to data files to supply the data that will be passed into templates. |
@@ -634,9 +625,9 @@ The rendered output looks like this:
 | ext    | extension to be used for dest files. |
 {{< /admonition >}}
 
-## 11 Links {#links}
+## 11 Tautan 
 
-### Basic Link
+### Tautan Dasar
 
 ```markdown
 <https://assemble.io>
@@ -644,7 +635,7 @@ The rendered output looks like this:
 [Assemble](https://assemble.io)
 ```
 
-The rendered output looks like this (hover over the link, there is no tooltip):
+Output yang diberikan terlihat seperti ini (hover di atas tautan, tidak ada tooltip):
 
 <https://assemble.io>
 
@@ -652,7 +643,7 @@ The rendered output looks like this (hover over the link, there is no tooltip):
 
 [Assemble](https://assemble.io)
 
-The HTML looks like this:
+HTML terlihat seperti berikut:
 
 ```html
 <a href="https://assemble.io">https://assemble.io</a>
@@ -660,17 +651,17 @@ The HTML looks like this:
 <a href="https://assemble.io">Assemble</a>
 ```
 
-### Add a Title
+### Menambahkan Judul
 
 ```markdown
 [Upstage](https://github.com/upstage/ "Visit Upstage!")
 ```
 
-The rendered output looks like this (hover over the link, there should be a tooltip):
+Output yang diberikan terlihat seperti ini (hover di atas tautan, tidak ada tooltip):
 
 [Upstage](https://github.com/upstage/ "Visit Upstage!")
 
-The HTML looks like this:
+HTML terlihat seperti berikut:
 
 ```html
 <a href="https://github.com/upstage/" title="Visit Upstage!">Upstage</a>
@@ -678,58 +669,57 @@ The HTML looks like this:
 
 ### Named Anchors
 
-Named anchors enable you to jump to the specified anchor point on the same page. For example, each of these chapters:
+Named anchors memungkinkan Anda untuk melompat ke titik anchor yang ditentukan pada halaman yang sama. Sebagai contoh, masing-masing bab ini:
 
 ```markdown
-## Table of Contents
-  * [Chapter 1](#chapter-1)
-  * [Chapter 2](#chapter-2)
-  * [Chapter 3](#chapter-3)
+## Daftar Isi
+  * [Bab 1](#bab-1)
+  * [Bab 2](#bab-2)
+  * [Bab 3](#bab-3)
 ```
 
-will jump to these sections:
+akan melompat ke bagian-bagian ini:
 
 ```markdown
-## Chapter 1 <a id="chapter-1"></a>
-Content for chapter one.
+## Bab 1 <a id="bab-1"></a>
+Isi dari bab 1.
 
-## Chapter 2 <a id="chapter-2"></a>
-Content for chapter one.
+## Bab 2 <a id="bab-2"></a>
+Isi dari bab 2
 
-## Chapter 3 <a id="chapter-3"></a>
-Content for chapter one.
+## Bab 3 <a id="bab-3"></a>
+Isi dari bab 3.
 ```
 
 {{< admonition >}}
-The specific placement of the anchor tag seems to be arbitrary. They are placed inline here since it seems to be unobtrusive, and it works.
+Penempatan spesifik dari tag anchor tampaknya tidak teratur. Mereka ditempatkan sebaris karena tampaknya tidak mengganggu, dan itu berhasil.
 {{< /admonition >}}
 
-## 12 Footnotes
+## 12 Catatan Kaki
 
-Footnotes allow you to add notes and references without cluttering the body of the document. When you create a footnote, a superscript number with a link appears where you added the footnote reference. Readers can click the link to jump to the content of the footnote at the bottom of the page.
+Catatan kaki memungkinkan Anda untuk menambahkan catatan dan referensi tanpa mengacaukan tubuh dokumen. Saat Anda membuat catatan kaki, nomor superskrip dengan tautan muncul di mana Anda menambahkan referensi catatan kaki. Pembaca dapat mengklik tautan untuk melompat ke konten catatan kaki di bagian bawah halaman.
 
-To create a footnote reference, add a caret and an identifier inside brackets (`[^1]`). Identifiers can be numbers or words, but they can’t contain spaces or tabs. Identifiers only correlate the footnote reference with the footnote itself — in the output, footnotes are numbered sequentially.
+Untuk membuat referensi catatan kaki, tambahkan caret dan pengenal di dalam kurung ([^1]). Pengidentifikasi bisa berupa angka atau kata-kata, tetapi mereka tidak dapat berisi spasi atau tab. Pengidentifikasi hanya menghubungkan referensi catatan kaki dengan catatan kaki itu sendiri - dalam output, catatan kaki diberi nomor secara berurutan.
 
-Add the footnote using another caret and number inside brackets with a colon and text (`[^1]: My footnote.`). You don’t have to put footnotes at the end of the document. You can put them anywhere except inside other elements like lists, block quotes, and tables.
+Tambahkan catatan kaki menggunakan caret lain dan nomor di dalam kurung dengan kolon dan teks ([^1]: My footnote.). Anda tidak perlu menempatkan catatan kaki di akhir dokumen. Anda dapat menempatkan mereka di mana saja kecuali di dalam elemen lain seperti daftar, tandan, dan tabel blok.
 
 ```markdown
-This is a digital footnote[^1].
-This is a footnote with "label"[^label]
+Ini adalah catatan kaki digital [^1]
+Ini adalah catatan kaki dengan “label” [^label]
 
-[^1]: This is a digital footnote
-[^label]: This is a footnote with "label"
+[^1]: Ini adalah catatan kaki digital
+[^label]: Ini adalah catatan kaki dengan “label”
 ```
 
-This is a digital footnote[^1].
+Ini adalah catatan kaki digital [^1]
+Ini adalah catatan kaki dengan “label” [^label]
 
-This is a footnote with "label"[^label]
+[^1]: Ini adalah catatan kaki digital
+[^label]: Ini adalah catatan kaki dengan “label”
 
-[^1]: This is a digital footnote
-[^label]: This is a footnote with "label"
+## 13 Gambar
 
-## 13 Images
-
-Images have a similar syntax to links but include a preceding exclamation point.
+Gambar memiliki sintaks yang sama dengan tautan tetapi termasuk titik seru sebelumnya.
 
 ```markdown
 ![Minion](https://octodex.github.com/images/minion.png)
@@ -737,7 +727,7 @@ Images have a similar syntax to links but include a preceding exclamation point.
 
 ![Minion](https://octodex.github.com/images/minion.png)
 
-or:
+atau:
 
 ```markdown
 ![Alt text](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
@@ -745,7 +735,7 @@ or:
 
 ![Alt text](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
 
-Like links, images also have a footnote style syntax:
+Seperti link, gambar juga memiliki sintaks gaya catatan kaki:
 
 ```markdown
 ![Alt text][id]
@@ -753,14 +743,10 @@ Like links, images also have a footnote style syntax:
 
 ![Alt text][id]
 
-With a reference later in the document defining the URL location:
+Dengan referensi kemudian dalam dokumen yang menentukan lokasi URL:
 
 ```markdown
 [id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
 ```
 
 [id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
-
-{{< admonition tip >}}
-**LoveIt** theme has [special shortcode for image](../theme-documentation-extended-shortcodes#image), which provides more features.
-{{< /admonition >}}
