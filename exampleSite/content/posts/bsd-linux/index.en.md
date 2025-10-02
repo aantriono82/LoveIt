@@ -11,7 +11,7 @@ description: "Artikel ini akan menjelaskan asal-usul, karakteristik, serta pengg
 images: []
 resources:
 - name: "featured-image"
-  src: "featured-image.jpg"
+  src: "featured-image.png"
 
 tags: ["Sistem Operasi", "Linux"]
 categories: ["Linux"]
