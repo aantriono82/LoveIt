@@ -73,15 +73,15 @@ Tanpa DE, pengguna hanya dapat berinteraksi melalui **CLI**. Walau banyak penggu
 ## 3. Komponen Lingkungan Desktop
 Lingkungan desktop mencakup elemen visual dan fungsional berikut:
 
-- **Manajer berkas**  
-- **Panel dan menu**  
-- **Tema, ikon, dan font**  
-- **Manajer jendela**  
-- **Peluncur aplikasi**  
-- **Emulator terminal**  
-- **Workspace/ruang kerja virtual**  
-- **Baki sistem (system tray)**  
-- **Kursor/penunjuk**  
+- Manajer berkas
+- Panel dan menu
+- Tema, ikon, dan font
+- Manajer jendela 
+- Peluncur aplikasi  
+- Emulator terminal
+- Workspace/ruang kerja virtual 
+- Baki sistem (system tray)
+- Kursor/penunjuk 
 
 Selain itu, DE sering dilengkapi dengan aplikasi bawaan, seperti:
 - Editor teks  
