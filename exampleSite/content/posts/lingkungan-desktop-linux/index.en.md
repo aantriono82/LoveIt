@@ -23,15 +23,8 @@ Artikel ini membahas tentang lingkungan desktop yang digunakan di Linux
 
 <!--more-->
 
-{{< admonition >}}
-This article is a shameful copy of the great [Grav original page](https://learn.getgrav.org/content/markdown).
 
-If you want to know about the extended Markdown syntax of **LoveIt** theme, please read [extended Markdown syntax page](../theme-documentation-content#extended-markdown-syntax).
-{{< /admonition >}}
-
-# Lingkungan Desktop Linux: Ikhtisar, Komponen, dan Pilihan Populer
-
-## 1. Ikhtisar
+## 1. Pengantar
 Bagi pemula Linux, sering kali istilah-istilah baru terasa membingungkan. Salah satu istilah yang sering ditemui adalah **Lingkungan Desktop** atau **Desktop Environment (DE)**.  
 
 Lingkungan Desktop adalah bagian penting dalam pengalaman menggunakan Linux. Artikel ini akan membahas:
