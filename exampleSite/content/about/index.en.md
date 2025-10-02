@@ -11,15 +11,14 @@ math:
   enable: true
 ---
 ![Aan Triono](/images/avatar.png)
-> [:(far fa-kiss-wink-heart fa-fw): I am](https://www.aantriono.com) a learner teacher who is
-passionate in  **Blogger**, **Teacher**, and **Writer LaTeX**.
+> [:(far fa-kiss-wink-heart fa-fw): Saya](https://www.aantriono.com) seorang Blogger, Pengguna Linux, dan juga Penulis LaTeX.
 > 
 > Assalamu'alaikum...
 > 
 > Hai, selamat datang di blog saya. Blog ini dibuat untuk menuliskan catatan belajar saya tentang Sistem Operasi Komputer seperti GNU/Linux, BSD, dan juga tentang LaTeX.
 >
 > Selain itu, saya juga mengelola beberapa blog dan menulis buku tentang LaTeX, diantaranya :
-> 1. [Blog pembelajaran Matematika](https://www.aantriono.com)
+> 1. [Blog Pembelajaran Matematika](https://www.aantriono.com)
 > 2. [Portofolio Digital](https://aantriono82.netlify.app)
 > 3. [Ebook LaTeX](https://www.aantriono.com/2022/07/buku-panduan-belajar-latex.html)
 >    
