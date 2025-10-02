@@ -19,7 +19,7 @@ categories: ["Markdown"]
 lightgallery: true
 ---
 
-Artikel ini membahas tentang lingkungan desktop yang digunakan di Linux
+Artikel ini membahas tentang lingkungan desktop yang digunakan di Linux.
 
 <!--more-->
 
