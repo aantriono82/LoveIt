@@ -84,6 +84,8 @@ Distribusi populer meliputi **Ubuntu, Debian, Fedora, Arch Linux, dan Red Hat En
 
 ---
 
+![Perkembangan Sistem operasi](unix.png "Perkembangan Sistem Operasi")
+
 ## **Kernel dan Arsitektur**  
 
 Ketiga sistem menggunakan kernel **monolitik**, tetapi dengan pendekatan berbeda:  
