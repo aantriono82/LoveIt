@@ -51,7 +51,7 @@ Sebagian besar distribusi Linux dirilis dalam dua versi:
 1. **Server** (tanpa GUI, hanya CLI/Command Line Interface)  
 2. **Desktop** (dengan GUI melalui DE bawaan)  
 
-Contoh, Ubuntu Desktop hadir dengan GNOME sebagai DE default. Kita bisa memeriksa DE yang sedang digunakan dengan perintah:
+Contoh, Manjaro Desktop dengan GNOME sebagai DE yang digunakan. Kita bisa memeriksa DE yang sedang digunakan dengan perintah:
 
 ```bash
 echo $XDG_CURRENT_DESKTOP
@@ -59,9 +59,9 @@ echo $XDG_CURRENT_DESKTOP
 
 Output bisa berupa sesuatu seperti:  
 ```
-ubuntu:GNOME
+GNOME
 ```
-
+![gnome](gnome.png)
 Tanpa DE, pengguna hanya dapat berinteraksi melalui **CLI**. Walau banyak pengguna berpengalaman lebih menyukai CLI, kehadiran DE sangat membantu pemula untuk beradaptasi dengan Linux.
 
 ---
