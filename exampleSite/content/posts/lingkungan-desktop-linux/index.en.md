@@ -61,7 +61,9 @@ Output bisa berupa sesuatu seperti:
 ```
 GNOME
 ```
+Contoh tampilan dalam terminal sebagai berikut:
 ![gnome](gnome.png)
+
 Tanpa DE, pengguna hanya dapat berinteraksi melalui **CLI**. Walau banyak pengguna berpengalaman lebih menyukai CLI, kehadiran DE sangat membantu pemula untuk beradaptasi dengan Linux.
 
 ---
