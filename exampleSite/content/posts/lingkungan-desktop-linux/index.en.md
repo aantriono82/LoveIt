@@ -63,6 +63,7 @@ GNOME
 ```
 Contoh tampilan dalam terminal sebagai berikut
 
+
 ![gnome](gnome.png)
 
 Tanpa DE, pengguna hanya dapat berinteraksi melalui **CLI**. Walau banyak pengguna berpengalaman lebih menyukai CLI, kehadiran DE sangat membantu pemula untuk beradaptasi dengan Linux.
@@ -113,32 +114,32 @@ Intinya, pilih DE yang nyaman secara tampilan sekaligus sesuai dengan performa p
 
 ## 5. Lingkungan Desktop Populer
 
-### 5.1. GNOME
+### 5.1. [GNOME](https://www.gnome.org/)
 - **Kelebihan**: Sederhana, intuitif, modern, dan cukup hemat sumber daya.  
 - **Cocok untuk**: Pemula dan pengguna yang ingin pengalaman desktop bersih dan jelas.  
 - **Contoh distro bawaan**: Ubuntu, Fedora.  
 
-### 5.2. KDE Plasma
+### 5.2. [KDE Plasma](https://kde.org/)
 - **Kelebihan**: Sangat bisa dikustomisasi, tampilannya mirip Windows, kini lebih hemat sumber daya dibanding generasi lama.  
 - **Cocok untuk**: Pengguna yang ingin kendali penuh atas tampilan dan fungsi desktop.  
 - **Contoh distro bawaan**: Kubuntu, openSUSE.  
 
-### 5.3. Budgie
+### 5.3. [Budgie](https://buddiesofbudgie.org/)
 - **Kelebihan**: Minimalis, elegan, mudah digunakan, dengan penyesuaian moderat.  
 - **Cocok untuk**: Pengguna yang ingin desktop estetis dan familiar.  
 - **Contoh distro bawaan**: Solus, Ubuntu Budgie.  
 
-### 5.4. Xfce
+### 5.4. [Xfce](https://www.xfce.org/)
 - **Kelebihan**: Sangat ringan, mendukung perangkat lama, stabil, dan tetap enak dipandang.  
 - **Cocok untuk**: Perangkat dengan spesifikasi rendah atau pengguna yang ingin sistem cepat tanpa fitur berlebihan.  
 - **Contoh distro bawaan**: Xubuntu, Manjaro Xfce.  
 
-### 5.5. MATE
+### 5.5. [MATE](https://mate-desktop.org/)
 - **Kelebihan**: Ringan, tradisional, stabil, mirip GNOME 2.  
 - **Cocok untuk**: Pengguna yang menyukai tata letak klasik dengan efisiensi tinggi.  
 - **Contoh distro bawaan**: Ubuntu MATE, Linux Mint MATE.  
 
-Selain itu, ada DE lain seperti **Cinnamon (Linux Mint)**, **LXQt/LXDE (ringan)**, dan **Pantheon (elementary OS)**. Masing-masing memiliki ciri khas sendiri.
+Selain itu, ada DE lain seperti **[Cinnamon (Linux Mint)](https://projects.linuxmint.com/cinnamon/)**, **[LXQt](https://lxqt-project.org/) , [LXDE](http://www.lxde.org/)**, dan **[Pantheon (elementary OS)](https://elementary.io/)**. Masing-masing memiliki ciri khas sendiri.
 
 ---
 
