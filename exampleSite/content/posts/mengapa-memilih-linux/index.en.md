@@ -58,11 +58,11 @@ Selain itu, penulis juga pernah _mencicipi_ varian dari Unix, yaitu:
 * FreeBSD
 * GhostBSD
 
-Meskipun silih berganti distro yang digunakan, tapi nyatanya kemampuan Linuxnya _ya segini-gini aja_ : smiley:
+Meskipun silih berganti distro yang digunakan, tapi nyatanya kemampuan Linuxnya _ya segini-gini aja_ :smiley:
 
 Berikut ini adalah tampilan desktop dari distro Linux yang penulis gunakan. Distro apa ya?
 
-[Manjaro](manjaro.png)
+![Manjaro](manjaro.png)
 
 ---
 
