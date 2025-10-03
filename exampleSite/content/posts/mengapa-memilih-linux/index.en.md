@@ -32,7 +32,7 @@ Juga tentang  [Lingkungan Desktop](https://catatanbelajar.netlify.app/lingkungan
 
 # Pengalaman Pindah dari Windows ke Linux: 10 Alasan Utama  
 
-Tidak terasa, sudah 3 tahun penulis menggunakan Linux sebagai sistem operasi di laptop yang saya gunakan untuk menunjang pekerjaan sehari-hari. Berawal dari ~~manisnya kasih sayang~~ kesadaran akan [subhatnya](https://web.archive.org/web/20221108123342/https://suaramuhammadiyah.id/2020/02/05/hukum-memakai-software-bajakan/) dan bahaya aplikasi _bajakan_ atau _crack_ yang terpasang di laptop Windows.
+Tidak terasa, sudah 3 tahun penulis menggunakan Linux sebagai sistem operasi di laptop yang saya gunakan untuk menunjang pekerjaan sehari-hari. Berawal dari ~~manisnya kasih sayang~~ kesadaran akan [subhatnya](https://web.archive.org/web/20221108123342/https://suaramuhammadiyah.id/2020/02/05/hukum-memakai-software-bajakan/), [hak cipta](https://mui.or.id/baca/fatwa/hak-cipta) dan bahaya aplikasi _bajakan_ atau _crack_ yang terpasang di laptop Windows.
 
 Sembari berliterasi secara fisik dan digital dan juga berinteraksi dengan para anggota komunitas Linux lintas distro yang tersebar di internet maupun di Telegram maka terbesit niat untuk bermigrasi dari Windows ke Linux. Dari situ saya memutuskan untuk mencoba Linux secara serius.  
 
@@ -40,7 +40,7 @@ Ubuntu menjadi distro Linux pertama yang saya coba. Ada _**rasa**_ berbeda melih
 
 Apakah ada kesulitan ketika menggunakan aplikasi-aplikasi yang ada di Linux? Tentu, sesuatu yang baru dan belum pernah dicoba pasti butuh adaptasi dan toleransi. :smile:
 
-Sebagai pengguna baru Linux, ada semacam _``kebiasaan``_ yang dialami penggunanya, yaitu: _distro hopping_. **Distro hopping** adalah suatu istilah yang digunakan dalam komunitas Linux untuk menggambarkan perilaku sesorang yang sering berganti-ganti distribusi Linux (distro) dalam waktu singkat. Bebrapa distro Linux yang pernah saya coba antara lain:
+Sebagai pengguna baru Linux, ada semacam _``kebiasaan``_ yang dialami penggunanya, yaitu: _distro hopping_. **Distro hopping** adalah suatu istilah yang digunakan dalam komunitas Linux untuk menggambarkan perilaku sesorang yang sering berganti-ganti distribusi Linux (distro) dalam waktu singkat. Bebrapa distro Linux yang pernah penulis coba antara lain:
 
 * Debian 
 * Ubuntu
@@ -59,7 +59,7 @@ Selain itu, penulis juga pernah _mencicipi_ varian dari Unix, yaitu:
 * FreeBSD
 * GhostBSD
 
-Meskipun silih berganti distro yang digunakan, tapi nyatanya kemampuan Linuxnya _ya segini-gini aja_ :smiley:
+Meskipun silih berganti distro yang digunakan, tapi nyatanya kemampuan Linuxnya _ya segini-gini aja_, bro :smiley:
 
 Berikut ini adalah tampilan desktop dari distro Linux yang penulis gunakan. Distro apa ya?
 
