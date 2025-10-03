@@ -13,11 +13,11 @@ resources:
 - name: "featured-image"
   src: "featured-image.png"
 
-tags: ["Markdown", "Linux"]
+tags: ["Sistem Operasi", "Linux"]
 categories: ["Linux"]
 
 lightgallery: true
-emoji: true
+twemoji: true
 ---
 
 Artikel ini membahas tentang alasan migrasi dari Windows ke Linux
@@ -112,9 +112,7 @@ Sementara itu, Linux bisa berjalan di berbagai perangkat, bahkan di komputer lam
 ### 5. Kustomisasi   
 
 Salah satu keuntungan utama menggunakan Linux daripada Windows adalah kustomisasi. Jika Anda suka mengubah tampilan sistem, Linux adalah pilihan yang tepat.
-
 Salah satu hal yang membuat Linux terlihat elegan adalah **antarmuka Linux yang indah dan konsisten**, dengan memasang lingkungan desktop dan juga tema.
-
 - **GNOME**: sederhana, elegan, dengan animasi halus dan gesture modern.  
 - **KDE Plasma**: sangat fleksibel dan penuh kustomisasi.  
 - **Cinnamon, Budgie, dan Xfce**: alternatif menarik sesuai kebutuhan pengguna. 
@@ -149,7 +147,7 @@ Tidak ada varian Windows. Ya, Anda mungkin memiliki paket & paket berbeda yang b
 
 Sebaliknya, Anda akan menemukan banyak distribusi Linux yang dirancang untuk memenuhi berbagai kebutuhan. Jadi, Anda dapat memilih untuk menginstal distro Linux mana pun yang tersedia sesuai dengan kebutuhan Anda.
 
-Misalnya, ada distribusi Linux untuk peretas , ada distribusi Linux untuk programmer , ada distribusi Linux untuk komputer yang sangat tua, dan masih banyak lagi. Ada Linux untuk semua orang.
+Misalnya, ada distribusi Linux untuk peretas , ada distribusi Linux untuk programmer, ada distribusi Linux untuk komputer yang sangat tua, dan masih banyak lagi. Ada Linux untuk semua orang.
 
 ### 9. Keandalan
 
@@ -161,7 +159,7 @@ Selain itu, dengan Windows, Anda harus beradaptasi dengan kebiasaan di mana Anda
 
 * Jika Anda baru saja menginstal perangkat lunak, boot ulang!
 * Jika Anda baru saja mencopot pemasangan perangkat lunak, mulai ulang!
-* Jika Anda baru saja menginstal pembaruan Windows, boot ulang! J
+* Jika Anda baru saja menginstal pembaruan Windows, boot ulang! 
 * Jika sistem terasa melambat, mulai ulang!
 
 Namun, dalam kasus Linux, Anda tidak perlu melakukan boot ulang untuk situasi yang disebutkan di atas. Anda dapat melanjutkan pekerjaan dengan nyaman, dan Linux tidak akan mengganggu Anda.
@@ -174,7 +172,7 @@ Fakta lain yang membuktikan keandalan Linux adalah server webnya. Anda bisa meng
 
 Anda tidak perlu menyewa pakar untuk menyelesaikan masalah yang Anda hadapi di sistem Linux Anda. Anda hanya perlu mencari utas serupa di internet untuk mendapatkan solusi atau membuat utas agar orang lain dapat menyelesaikan masalah tersebut.
 
-Dalam beberapa menit setelah memposting utas di forum Linux mana pun , Anda mungkin akan mendapatkan balasan beserta solusi terperinci yang pada akhirnya akan membantu menyelesaikan masalah Anda tanpa biaya! Jangan lupa, Anda akan menemukan solusi untuk sebagian besar masalah umum di forum yang dijelaskan dengan tepat tanpa perlu melakukan banyak riset.
+Dalam beberapa menit setelah memposting utas di forum Linux mana pun, Anda mungkin akan mendapatkan balasan beserta solusi terperinci yang pada akhirnya akan membantu menyelesaikan masalah Anda tanpa biaya! Jangan lupa, Anda akan menemukan solusi untuk sebagian besar masalah umum di forum yang dijelaskan dengan tepat tanpa perlu melakukan banyak riset.
 
 Jika mengalami masalah, Anda bisa bertanya di forum, grup Telegram, Reddit, atau StackExchange. Banyak pengguna rela meluangkan waktu untuk membantu sampai tuntas tanpa mengharapkan imbalan.  
 
@@ -182,11 +180,11 @@ Jika mengalami masalah, Anda bisa bertanya di forum, grup Telegram, Reddit, atau
 
 ## Kesimpulan  
 
-Itulah **10 alasan saya berpindah dari Windows ke Linux** sebagai sistem operasi utama.  
+Itulah **10 alasan saya bermigrasi dari Windows ke Linux** sebagai sistem operasi utama.  
 
 Memang, masih ada beberapa keterbatasan, terutama dari sisi aplikasi pihak ketiga yang belum mendukung Linux sepenuhnya (misalnya software desain dan beberapa game). Namun, semakin banyak developer yang mulai menyediakan versi Linux.  
 
-Dengan semakin banyaknya pengguna yang beralih, ekosistem Linux akan makin berkembang. Jadi, kalau Anda penasaran, **tidak ada salahnya mencoba** salah satu distro Linux. Siapa tahu Anda juga menemukan alasan untuk bertahan.  
+Dengan semakin banyaknya pengguna yang bermigrasi, ekosistem Linux akan makin berkembang. Jadi, kalau Anda penasaran, **tidak ada salahnya mencoba** salah satu distro Linux. Siapa tahu Anda juga menemukan alasan untuk bertahan.  
 
 ---
 
