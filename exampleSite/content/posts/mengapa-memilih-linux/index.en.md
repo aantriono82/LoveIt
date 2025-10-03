@@ -188,4 +188,5 @@ Dengan semakin banyaknya pengguna yang bermigrasi, ekosistem Linux akan makin be
 
 ---
 👉 Jadi, apakah Anda siap mencoba Linux?  
-[Source](https://sawungrana.medium.com/7-alasan-untuk-pindah-sepenuhnya-ke-linux-dee5fc34cb70)
+
+<small><font color="gray">[Source](https://sawungrana.medium.com/7-alasan-untuk-pindah-sepenuhnya-ke-linux-dee5fc34cb70)</font></small>
