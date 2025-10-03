@@ -13,8 +13,8 @@ resources:
 - name: "featured-image"
   src: "featured-image.png"
 
-tags: ["Markdown", "HTML"]
-categories: ["Markdown"]
+tags: ["Sistem Operasi", "Linux"]
+categories: ["Linux"]
 
 lightgallery: true
 ---
