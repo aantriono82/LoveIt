@@ -25,12 +25,11 @@ Artikel ini membahas tentang alasan migrasi dari Windows ke Linux
 <!--more-->
 
 {{< admonition >}}
-This article is a shameful copy of the great [Grav original page](https://learn.getgrav.org/content/markdown).
-
-If you want to know about the extended Markdown syntax of **LoveIt** theme, please read [extended Markdown syntax page](../theme-documentation-content#extended-markdown-syntax).
+Silakan baca kembali tentang [Sistem Operasi Paling Berpengaruh](https://catatanbelajar.netlify.app/bsd-linux/)).
+Juga tentang  [Lingkungan Desktop](https://catatanbelajar.netlify.app/lingkungan-desktop-linux/).
 {{< /admonition >}}
 
-# Pengalaman Pindah dari Windows ke Linux: 9 Alasan Utama  
+# Pengalaman Pindah dari Windows ke Linux: 10 Alasan Utama  
 
 Tidak terasa, sudah 3 tahun penulis menggunakan Linux sebagai sistem operasi di laptop yang saya gunakan untuk menunjang pekerjaan sehari-hari. Berawal dari ~~manisnya kasih sayang~~ kesadaran akan subhatnya dan bahaya aplikasi _bajakan_ atau _crack_ yang terpasang di laptop Windows.
 
