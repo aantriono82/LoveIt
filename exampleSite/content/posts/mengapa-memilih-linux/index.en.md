@@ -187,5 +187,5 @@ Memang, masih ada beberapa keterbatasan, terutama dari sisi aplikasi pihak ketig
 Dengan semakin banyaknya pengguna yang bermigrasi, ekosistem Linux akan makin berkembang. Jadi, kalau Anda penasaran, **tidak ada salahnya mencoba** salah satu distro Linux. Siapa tahu Anda juga menemukan alasan untuk bertahan.  
 
 ---
-
 👉 Jadi, apakah Anda siap mencoba Linux?  
+[Source](https://sawungrana.medium.com/7-alasan-untuk-pindah-sepenuhnya-ke-linux-dee5fc34cb70)
