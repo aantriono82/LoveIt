@@ -25,13 +25,14 @@ Artikel ini membahas tentang alasan migrasi dari Windows ke Linux
 <!--more-->
 
 {{< admonition >}}
-Silakan baca kembali tentang [Sistem Operasi Paling Berpengaruh](https://catatanbelajar.netlify.app/bsd-linux/)).
+Silakan baca kembali tentang [Sistem Operasi Paling Berpengaruh](https://catatanbelajar.netlify.app/bsd-linux/).
+
 Juga tentang  [Lingkungan Desktop](https://catatanbelajar.netlify.app/lingkungan-desktop-linux/).
 {{< /admonition >}}
 
 # Pengalaman Pindah dari Windows ke Linux: 10 Alasan Utama  
 
-Tidak terasa, sudah 3 tahun penulis menggunakan Linux sebagai sistem operasi di laptop yang saya gunakan untuk menunjang pekerjaan sehari-hari. Berawal dari ~~manisnya kasih sayang~~ kesadaran akan subhatnya dan bahaya aplikasi _bajakan_ atau _crack_ yang terpasang di laptop Windows.
+Tidak terasa, sudah 3 tahun penulis menggunakan Linux sebagai sistem operasi di laptop yang saya gunakan untuk menunjang pekerjaan sehari-hari. Berawal dari ~~manisnya kasih sayang~~ kesadaran akan [subhatnya](https://web.archive.org/web/20221108123342/https://suaramuhammadiyah.id/2020/02/05/hukum-memakai-software-bajakan/) dan bahaya aplikasi _bajakan_ atau _crack_ yang terpasang di laptop Windows.
 
 Sembari berliterasi secara fisik dan digital dan juga berinteraksi dengan para anggota komunitas Linux lintas distro yang tersebar di internet maupun di Telegram maka terbesit niat untuk bermigrasi dari Windows ke Linux. Dari situ saya memutuskan untuk mencoba Linux secara serius.  
 
