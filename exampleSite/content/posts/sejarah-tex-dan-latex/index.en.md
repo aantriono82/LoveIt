@@ -1,8 +1,8 @@
 ---
 weight: 4
 title: "Sejarah TeX dan LaTeX: Evolusi Sistem Penyusunan Dokumen Digital"
-date: 2025-10-06
-lastmod: 2025-10-06
+date: 2025-10-07
+lastmod: 2025-10-07
 draft: false
 author: "Aan Triono"
 authorLink: "https://www.aantriono.com"
@@ -109,7 +109,4 @@ TeX dan LaTeX adalah tonggak penting dalam sejarah penyusunan dokumen digital. D
 - Situs resmi TeX Users Group (TUG): https://www.tug.org
 - Comprehensive TeX Archive Network (CTAN): https://www.ctan.org
 
-## Gambar Logo LaTeX
-![LaTeX Logo](attachment://latex-logo-1.png)
-![LaTeX Logo](attachment://latex-logo-2.png)
 
