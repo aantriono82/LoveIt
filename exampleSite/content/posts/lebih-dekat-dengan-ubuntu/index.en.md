@@ -134,13 +134,13 @@ Pastikan komputer Anda memenuhi spesifikasi minimum:
 
 **3. Unduh File ISO Ubuntu**
 
-Kunjungi situs resmi ubuntu.com dan unduh file ISO versi yang diinginkan. Untuk pengguna baru, disarankan memilih versi LTS terbaru karena lebih stabil dan mendapat dukungan jangka panjang.
+Kunjungi situs resmi [ubuntu.com](https://ubuntu.com/) dan unduh file ISO versi yang diinginkan. Untuk pengguna baru, disarankan memilih versi LTS terbaru karena lebih stabil dan mendapat dukungan jangka panjang.
 
 ### Membuat Media Instalasi Bootable
 
 **Untuk USB Drive:**
 
-Gunakan aplikasi seperti Rufus (Windows), balenaEtcher (multiplatform), atau Startup Disk Creator (Linux) untuk membuat USB bootable. Proses ini akan menghapus semua data di USB, jadi pastikan menggunakan USB kosong atau sudah di-backup.
+Gunakan aplikasi seperti [Rufus](https://rufus.ie/en/) (Windows), [balenaEtcher](https://etcher.balena.io/) (multiplatform), atau Startup Disk Creator (Linux) untuk membuat USB bootable. Proses ini akan menghapus semua data di USB, jadi pastikan menggunakan USB kosong atau sudah di-backup.
 
 Langkah pembuatan dengan balenaEtcher:
 1. Buka aplikasi balenaEtcher
