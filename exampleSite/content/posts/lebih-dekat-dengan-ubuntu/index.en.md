@@ -2,7 +2,7 @@
 weight: 4
 title: "Mengenal Ubuntu: Distribusi Linux Ramah Pengguna untuk Berbagai Kebutuhan"
 date: 2025-10-06
-lastmod: 2025-10-06
+lastmod: 2025-10-07
 draft: false
 author: "Aan Triono"
 authorLink: "https://www.aantriono.com"
