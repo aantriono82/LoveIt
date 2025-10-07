@@ -25,6 +25,8 @@ Artikel ini membahas tentang distro linux yang populer, ramah pengguna, mudah di
 
 {{< admonition >}}
 
+Artikel ini dibuat dengan bantuan teknologi AI dan telah diedit untuk memastikan keakuratan dan kualitas informasi. Namun, kami tidak menjamin bahwa informasi yang disajikan sepenuhnya akurat, lengkap, atau terkini. Pembaca diharapkan untuk memverifikasi informasi yang disajikan dan menggunakan penilaian sendiri dalam membuat keputusan."
+
 {{< /admonition >}}
 
 # Mengenal Ubuntu: Distribusi Linux Ramah Pengguna untuk Berbagai Kebutuhan
