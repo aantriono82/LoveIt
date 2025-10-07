@@ -24,14 +24,10 @@ Artikel ini membahas tentang distro linux yang populer, ramah pengguna, mudah di
 <!--more-->
 
 {{< admonition >}}
-This article is a shameful copy of the great [Grav original page](https://learn.getgrav.org/content/markdown).
 
-If you want to know about the extended Markdown syntax of **LoveIt** theme, please read [extended Markdown syntax page](../theme-documentation-content#extended-markdown-syntax).
 {{< /admonition >}}
 
 # Mengenal Ubuntu: Distribusi Linux Ramah Pengguna untuk Berbagai Kebutuhan
-
-![ubuntu Logo](ubuntu-logo.png)
 
 ## Pendahuluan
 
