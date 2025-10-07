@@ -61,7 +61,7 @@ Ubuntu menawarkan versi Long-Term Support (LTS) yang didukung selama 5 tahun den
 
 ![Ubuntu Desktop GNOME](ubuntu.png)
 
-*Tampilan desktop Ubuntu 25.04 dengan lingkungan GNOME yang modern dan elegan*> **Catatan**: Untuk gambar terbaru, kunjungi [ubuntu.com/desktop](https://ubuntu.com/desktop)
+*Tampilan desktop Ubuntu 25.04 dengan lingkungan GNOME yang modern dan elegan*> 
 
 Ubuntu menggunakan GNOME sebagai lingkungan desktop default, menawarkan pengalaman pengguna yang modern dan bersih. Tampilannya yang elegan memudahkan navigasi bahkan bagi pengguna yang baru migrasi dari sistem operasi lain. Dock di sisi kiri layar memberikan akses cepat ke aplikasi favorit, sementara Activities Overview memungkinkan pencarian cepat file, aplikasi, dan pengaturan sistem.
 
