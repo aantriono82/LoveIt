@@ -60,14 +60,15 @@ Ubuntu menawarkan versi Long-Term Support (LTS) yang didukung selama 5 tahun den
 ### 4. Antarmuka Pengguna yang Intuitif
 
 ![Ubuntu Desktop GNOME](ubuntu.png)
-*Tampilan desktop Ubuntu 25.04 dengan lingkungan GNOME yang modern dan elegan*
-> **Catatan**: Untuk gambar terbaru, kunjungi [ubuntu.com/desktop](https://ubuntu.com/desktop)
+
+*Tampilan desktop Ubuntu 25.04 dengan lingkungan GNOME yang modern dan elegan*> **Catatan**: Untuk gambar terbaru, kunjungi [ubuntu.com/desktop](https://ubuntu.com/desktop)
 
 Ubuntu menggunakan GNOME sebagai lingkungan desktop default, menawarkan pengalaman pengguna yang modern dan bersih. Tampilannya yang elegan memudahkan navigasi bahkan bagi pengguna yang baru migrasi dari sistem operasi lain. Dock di sisi kiri layar memberikan akses cepat ke aplikasi favorit, sementara Activities Overview memungkinkan pencarian cepat file, aplikasi, dan pengaturan sistem.
 
 ## Varian Ubuntu untuk Berbagai Kebutuhan
 
 ![Ubuntu Flavors](flavour.png)
+
 *Berbagai varian Ubuntu yang disesuaikan dengan kebutuhan spesifik pengguna*
 > **Catatan**: Lihat semua varian di [ubuntu.com/desktop/flavours](https://ubuntu.com/desktop/flavours)
 
@@ -94,6 +95,7 @@ Ubuntu mendukung berbagai perangkat keras, dari laptop tua hingga workstation mo
 ### Ekosistem Aplikasi yang Kaya
 
 ![Ubuntu Software Center](software.png)
+
 *Ubuntu Software Center menyediakan ribuan aplikasi gratis dengan antarmuka yang mudah digunakan*
 
 Ubuntu Software Center menyediakan ribuan aplikasi gratis yang dapat diinstal dengan mudah tanpa perlu menggunakan command line. Dari aplikasi perkantoran seperti LibreOffice, browser web seperti Firefox dan Chrome, hingga aplikasi pengembangan software, semuanya tersedia dengan beberapa klik saja.
@@ -223,9 +225,6 @@ Setelah instalasi selesai, sistem akan meminta Anda untuk restart. Lepaskan USB 
 {{< /admonition >}}
 
 ### Pengaturan Awal Setelah Instalasi
-
-![Ubuntu First Boot](https://i.imgur.com/ubuntu-welcome-placeholder.png)
-*Layar welcome Ubuntu setelah instalasi pertama kali*
 
 **1. Update Sistem**
 
