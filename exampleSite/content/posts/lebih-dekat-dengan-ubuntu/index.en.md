@@ -90,10 +90,6 @@ Ubuntu mendukung berbagai perangkat keras, dari laptop tua hingga workstation mo
 
 ### Ekosistem Aplikasi yang Kaya
 
-![Ubuntu Software Center](software.png)
-
-*Ubuntu Software Center menyediakan ribuan aplikasi gratis dengan antarmuka yang mudah digunakan*
-
 Ubuntu Software Center menyediakan ribuan aplikasi gratis yang dapat diinstal dengan mudah tanpa perlu menggunakan command line. Dari aplikasi perkantoran seperti LibreOffice, browser web seperti Firefox dan Chrome, hingga aplikasi pengembangan software, semuanya tersedia dengan beberapa klik saja.
 
 ### Cocok untuk Pengembangan Software
@@ -166,8 +162,6 @@ Setelah boot dari USB, Anda akan melihat layar Welcome dengan dua pilihan:
 - "Try Ubuntu" - mencoba Ubuntu tanpa menginstal
 - "Install Ubuntu" - langsung memulai instalasi
 
-![Ubuntu Partitioning Options](instalasi.png)
-
 Pilih "Install Ubuntu" untuk melanjutkan.
 
 **Langkah 3: Pengaturan Keyboard dan Bahasa**
@@ -215,8 +209,7 @@ Setelah instalasi selesai, sistem akan meminta Anda untuk restart. Lepaskan USB 
 
 {{< admonition >}}
 
-[Panduan Lengkap Instalasi ubuntu](https://www.linuxbuzz.com/ubuntu-24-04-desktop-installation-guide)
-
+Silakan kunjungi [Panduan Instalasi Ubuntu](https://www.linuxbuzz.com/ubuntu-24-04-desktop-installation-guide) untuk mendapatkan panduan yang lebih lengkap dan jelas.
 
 {{< /admonition >}}
 
@@ -225,7 +218,8 @@ Setelah instalasi selesai, sistem akan meminta Anda untuk restart. Lepaskan USB 
 **1. Update Sistem**
 
 Hal pertama yang harus dilakukan adalah memperbarui sistem:
-```
+
+``` bash
 sudo apt update
 sudo apt upgrade
 ```
