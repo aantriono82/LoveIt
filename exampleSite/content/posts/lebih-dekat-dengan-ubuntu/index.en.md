@@ -63,7 +63,7 @@ Ubuntu menggunakan GNOME sebagai lingkungan desktop default, menawarkan pengalam
 
 ## Varian Ubuntu untuk Berbagai Kebutuhan
 
-![Ubuntu Flavors](flavour.png)
+![Ubuntu Flavours](flavour.png)
 
 *Berbagai varian Ubuntu yang disesuaikan dengan kebutuhan spesifik pengguna*
 > **Catatan**: Lihat semua varian di [ubuntu.com/desktop/flavours](https://ubuntu.com/desktop/flavours)
