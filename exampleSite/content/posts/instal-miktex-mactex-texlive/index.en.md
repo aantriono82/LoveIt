@@ -1,8 +1,8 @@
 ---
 weight: 4
 title: "Panduan Lengkap Instalasi MikTeX, MacTeX, dan TeXlive"
-date: 2025-10-06
-lastmod: 2025-10-06
+date: 2025-10-08
+lastmod: 2025-10-08
 draft: false
 author: "Aan Triono"
 authorLink: "https://www.aantriono.com"
@@ -12,7 +12,7 @@ resources:
 - name: "featured-image"
   src: "featured-image.png"
 
-tags: ["TeX", "LaTeX"]
+tags: ["MikTeX", "MacTeX", "TeXlive"]
 categories: ["LaTeX"]
 
 lightgallery: true
@@ -78,7 +78,7 @@ Distribusi LaTeX adalah paket lengkap yang berisi:
 3. Pilih installer (Recommended: **MikTeX-pdfTeX Installer**)
 4. Ukuran download: ±200 MB
 
-![MikTeX Download Page](https://via.placeholder.com/800x400/4CAF50/FFFFFF?text=MikTeX+Official+Website)
+![MikTeX Download Page](miktex.png)
 
 ### Langkah 2: Jalankan Installer
 
@@ -95,7 +95,7 @@ Distribusi LaTeX adalah paket lengkap yang berisi:
    - **Paper size**: A4 (untuk Indonesia/Eropa) atau Letter (untuk US)
 3. Klik **"Start"** untuk memulai instalasi
 
-![MikTeX Installation Settings](https://via.placeholder.com/800x400/2196F3/FFFFFF?text=MikTeX+Installation+Wizard)
+
 
 ### Langkah 4: Verifikasi Instalasi
 
@@ -117,7 +117,6 @@ MiKTeX-pdfTeX 4.x (MiKTeX 23.x)
 3. Klik **"Check for updates"**
 4. Klik **"Update now"** jika ada update tersedia
 
-![MikTeX Console](https://via.placeholder.com/800x400/FF9800/FFFFFF?text=MikTeX+Console+-+Package+Manager)
 
 ---
 
@@ -129,6 +128,8 @@ MiKTeX-pdfTeX 4.x (MiKTeX 23.x)
 2. Download **MacTeX.pkg** (±4 GB)
 3. Alternatif: Gunakan **BasicTeX** (±100 MB) untuk instalasi minimal
 
+![MacTeX Installer](mactex.png)
+
 ### Langkah 2: Instalasi
 
 1. Double-click file **MacTeX.pkg**
@@ -136,8 +137,6 @@ MiKTeX-pdfTeX 4.x (MiKTeX 23.x)
 3. Klik **"Continue"** → **"Install"**
 4. Masukkan password administrator Mac Anda
 5. Proses instalasi membutuhkan waktu 10-20 menit
-
-![MacTeX Installer](https://via.placeholder.com/800x400/9C27B0/FFFFFF?text=MacTeX+Installation+on+macOS)
 
 ### Langkah 3: Verifikasi Instalasi
 
@@ -158,8 +157,6 @@ Buka **TeX Live Utility** dari Applications:
 
 1. Klik **"Update All Packages"**
 2. Tunggu hingga proses selesai
-
-![TeX Live Utility](https://via.placeholder.com/800x400/E91E63/FFFFFF?text=TeX+Live+Utility+-+macOS)
 
 ### Langkah 5: Gunakan TeXShop (Editor Bawaan)
 
@@ -196,7 +193,6 @@ sudo dnf install texlive-scheme-full
 sudo pacman -S texlive-most
 ```
 
-![Linux Terminal Installation](https://via.placeholder.com/800x400/009688/FFFFFF?text=TeXLive+Installation+on+Linux)
 
 ### Metode 2: Instalasi Manual (Recommended untuk Advanced Users)
 
@@ -248,7 +244,7 @@ sudo tlmgr update --self
 sudo tlmgr update --all
 ```
 
-![TeXLive Manager](https://via.placeholder.com/800x400/607D8B/FFFFFF?text=tlmgr+-+TeXLive+Package+Manager)
+![TeXLive](tlmgr.png)
 
 ---
 
