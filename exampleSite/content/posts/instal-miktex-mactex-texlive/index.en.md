@@ -30,7 +30,7 @@ Untuk mempelajari LaTeX secara lebih mendalam, silakan kunjungi [Panduan Belajar
 
 
 
-# 📝 Panduan Lengkap Instalasi LaTeX: MikTeX, MacTeX, dan TeXLive untuk Semua Platform
+#  Panduan Lengkap Instalasi LaTeX: MikTeX, MacTeX, dan TeXLive untuk Semua Platform
 
 ## Pendahuluan
 
@@ -121,7 +121,7 @@ MiKTeX-pdfTeX 4.x (MiKTeX 23.x)
 
 ### Langkah 1: Download MacTeX
 
-![mactex](miktex.png)
+![mactex](mactex.png)
 
 1. Kunjungi: [https://www.tug.org/mactex/](https://www.tug.org/mactex/)
 2. Download **MacTeX.pkg** (±4 GB)
