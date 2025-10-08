@@ -6,7 +6,7 @@ lastmod: 2025-10-08
 draft: false
 author: "Aan Triono"
 authorLink: "https://www.aantriono.com"
-description: "
+description: "Artikel ini membahas tentang cara instal mesin LaTeX, yaitu: MikTeX, MacteX, dan TeXlive di berbagai platform sistem operasi seperti Windows, Mac OS, dan Linux".
 images: []
 resources:
 - name: "featured-image"
