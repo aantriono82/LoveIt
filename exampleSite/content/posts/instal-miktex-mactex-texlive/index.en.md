@@ -31,9 +31,9 @@ Untuk mempelajari LaTeX secara lebih mendalam, silakan kunjungi [Panduan Belajar
 
 # Panduan Lengkap Instalasi LaTeX: Dari Awal Hingga Siap Menulis Dokumen Profesional
 
-> **Ingin menulis skripsi, laporan ilmiah, atau buku dengan tampilan layaknya publikasi akademik internasional?**  
-> Panduan ini akan membantu Anda memahami dan menginstal LaTeX di Windows, macOS, dan Linux — mulai dari memilih distribusi terbaik hingga menyelesaikan masalah umum.  
-> Cocok untuk pemula maupun pengguna tingkat lanjut yang ingin bekerja secara efisien dan profesional.
+ **Ingin menulis skripsi, laporan ilmiah, atau buku dengan tampilan layaknya publikasi akademik internasional?**  
+ Panduan ini akan membantu Anda memahami dan menginstal LaTeX di Windows, macOS, dan Linux — mulai dari memilih distribusi terbaik hingga menyelesaikan masalah umum.  
+ Cocok untuk pemula maupun pengguna tingkat lanjut yang ingin bekerja secara efisien dan profesional.
 
 ---
 
@@ -85,6 +85,9 @@ Singkatnya, distribusi LaTeX adalah fondasi utama agar Anda bisa menulis dan men
 ## 4. Instalasi MiKTeX (Windows)
 
 ### Langkah 1: Unduh Installer
+
+![miktex](miktex.png)
+
 1. Buka [https://miktex.org/download](https://miktex.org/download)  
 2. Pilih versi untuk **Windows**  
 3. Unduh *installer* (disarankan: **MiKTeX-pdfTeX Installer**)  
@@ -118,6 +121,9 @@ Jika muncul versi MiKTeX, berarti instalasi berhasil.
 ## 5. Instalasi MacTeX (macOS)
 
 ### Langkah 1: Unduh Paket
+
+![mactex](mactex.png)
+
 - Kunjungi [https://www.tug.org/mactex/](https://www.tug.org/mactex/)  
 - Unduh **MacTeX.pkg** (~4 GB)  
 - Untuk versi ringan, gunakan **BasicTeX** (~100 MB)
@@ -160,7 +166,7 @@ sudo dnf install texlive-scheme-full
 
 **Arch Linux:**
 ```bash
-sudo pacman -S texlive-most
+sudo pacman -S texlive-full
 ```
 
 ### Metode 2: Instalasi Manual (Untuk Pengguna Mahir)
