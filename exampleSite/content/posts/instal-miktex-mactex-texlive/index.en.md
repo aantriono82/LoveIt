@@ -25,7 +25,7 @@ Artikel ini membahas tentang cara menginstal berbagai mesin LaTeX yang digunakan
 
 {{< admonition >}}
 
-Untuk mempelajari LaTeX secara lebih mendalam, silakan kunjungi [Panduan Belajar LaTeX](https://www.aantriono.com/2022/07/buku-panduan-belajar-latex.html)
+Artikel ini dibuat dengan bantuan teknologi AI dan telah diedit untuk memastikan keakuratan dan kualitas informasi. Namun, kami tidak menjamin bahwa informasi yang disajikan sepenuhnya akurat, lengkap, atau terkini. Pembaca diharapkan untuk memverifikasi informasi yang disajikan dan menggunakan penilaian sendiri dalam membuat keputusan."
 
 {{< /admonition >}}
 
@@ -290,6 +290,7 @@ Pemilihan distribusi LaTeX tergantung kebutuhan dan sistem operasi Anda:
 Setelah instalasi selesai, Anda dapat langsung menulis karya akademik, artikel jurnal, hingga buku profesional dengan hasil cetak yang presisi.
 
 > **Selamat berkarya dengan LaTeX — sistem penulisan yang andal, rapi, dan elegan.**
+> **Untuk belajar LaTeX, silakan kunjungi [Panduan Belajar LaTeX](https://www.aantriono.com/2022/07/buku-panduan-belajar-latex.html)**
 
 ---
 
