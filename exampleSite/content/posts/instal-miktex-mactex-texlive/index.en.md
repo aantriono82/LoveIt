@@ -1,8 +1,8 @@
 ---
 weight: 4
 title: "Panduan Lengkap Instalasi MikTeX, MacTeX, dan TeXlive"
-date: 2025-10-06
-lastmod: 2025-10-06
+date: 2025-10-08
+lastmod: 2025-10-08
 draft: false
 author: "Aan Triono"
 authorLink: "https://www.aantriono.com"
