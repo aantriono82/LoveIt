@@ -73,6 +73,8 @@ Distribusi LaTeX adalah paket lengkap yang berisi:
 
 ### Langkah 1: Download MikTeX
 
+![Miktex](miktex.png)
+
 1. Kunjungi website resmi: [https://miktex.org/download](https://miktex.org/download)
 2. Pilih **"Download"** untuk Windows
 3. Pilih installer (Recommended: **MikTeX-pdfTeX Installer**)
@@ -118,6 +120,8 @@ MiKTeX-pdfTeX 4.x (MiKTeX 23.x)
 ## Instalasi MacTeX di macOS
 
 ### Langkah 1: Download MacTeX
+
+![mactex](miktex.png)
 
 1. Kunjungi: [https://www.tug.org/mactex/](https://www.tug.org/mactex/)
 2. Download **MacTeX.pkg** (±4 GB)
@@ -235,7 +239,7 @@ tlmgr --version
 sudo tlmgr update --self
 sudo tlmgr update --all
 ```
-
+![tlmgr](tlmgr.png)
 ---
 
 ## Instalasi TeXLive di Windows (Alternatif MikTeX)
